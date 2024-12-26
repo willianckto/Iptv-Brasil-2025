@@ -47,6 +47,7 @@ Qualquer Lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | Iptv1  | `poolque75@gmail.com`  |  XibxZji5g7                           |  http://23.227.140.75:3050             |
 | Iptv2  | `329474`               | 903964                                |  http://supersonictv.live:8080         |
 | Iptv3  | `reginaldooliver1`     | oliverreginaldo                       |  https://vptdlxun.online               |
+| Iptv4  | `1103581436`           | 4099381829                            |  http://zkbvzkj.megahdtv.xyz:80        |
 
 <img src="https://media.tenor.com/deSXVqxNJwcAAAAj/christmas-xmas.gif" alt="Computer man" style="width:400px;height:200px;">
 
