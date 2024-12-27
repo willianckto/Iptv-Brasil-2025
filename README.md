@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/nCWKmjQRFvkAAAAj/metalhead-metal.gif" alt="Computer man" style="width:150px;height:200px;"><img src="https://media.tenor.com/0BaEU9hK3ooAAAAj/hinimation-studio-ulbabrab.gif" alt="Computer man" style="width:100px;height:200px;"><img src="https://media.tenor.com/rC0g45y12CwAAAAj/metalhead-metal.gif" alt="Computer man" style="width:200px;height:200px;">
+<img src="https://media.tenor.com/nCWKmjQRFvkAAAAj/metalhead-metal.gif" alt="Computer man" style="width:150px;height:200px;"><img src="https://media.tenor.com/rC0g45y12CwAAAAj/metalhead-metal.gif" alt="Computer man" style="width:200px;height:200px;">
 
 
 
@@ -54,9 +54,6 @@ Qualquer Lista poderá ser adicionada no painel iptvsmarters e na webtv.
 
 #
 
-<img src="https://media.tenor.com/Tjet-RALEg8AAAAj/kenny-woohoo.gif" alt="Computer man" style="width:100px;height:99px;">
-<img src="https://media.tenor.com/MLWC_ZNLyVMAAAAj/confused-eric-cartman.gif" alt="Computer man" style="width:100px;height:90px;">
-<img src="https://media.tenor.com/JXNZN2jpCOMAAAAj/annoyed-stan-marsh.gif" alt="Computer man" style="width:100px;height:90px;">
 <img src="https://media.tenor.com/qStE4rcSyRMAAAAj/applause-kyle-broflovski.gif" alt="Computer man" style="width:100px;height:90px;">
 <img src="https://media.tenor.com/faOsxSv6uj8AAAAj/butters-south-park.gif" alt="Computer man" style="width:120px;height:100px;">
 
