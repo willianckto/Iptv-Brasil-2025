@@ -31,7 +31,7 @@
 
  http://webtv.iptvblinkplayer.com/
 
-Qualquer Lista poderá ser adicionada no painel iptvsmarters e na webtv.
+Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 
 ###
 #
