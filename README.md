@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/nCWKmjQRFvkAAAAj/metalhead-metal.gif" alt="Computer man" style="width:150px;height:200px;"><img src="https://media.tenor.com/rC0g45y12CwAAAAj/metalhead-metal.gif" alt="Computer man" style="width:200px;height:200px;">
+<img src="https://media.tenor.com/rC0g45y12CwAAAAj/metalhead-metal.gif" alt="Computer man" style="width:200px;height:200px;">
 
 # IPTV Brasil 2025 - Canais, Filmes e Séries
 ### <i class="fa-brands fa-pix">
@@ -37,7 +37,7 @@ Qualquer Lista poderá ser adicionada no painel iptvsmarters e na webtv.
 #
 
 
-## Contas Iptv Para o Painel Iptv
+## Contas Para o Painel Iptv
 | Qualquer nome   | Login                  | Senha                                 |      Url                               |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|
 | Iptv1  | `poolque75@gmail.com`  |  XibxZji5g7                           |  http://23.227.140.75:3050             |
@@ -47,8 +47,6 @@ Qualquer Lista poderá ser adicionada no painel iptvsmarters e na webtv.
 
 #
 
-<img src="https://media.tenor.com/qStE4rcSyRMAAAAj/applause-kyle-broflovski.gif" alt="Computer man" style="width:100px;height:90px;">
-<img src="https://media.tenor.com/faOsxSv6uj8AAAAj/butters-south-park.gif" alt="Computer man" style="width:120px;height:100px;">
-
+<img src="https://media.tenor.com/nCWKmjQRFvkAAAAj/metalhead-metal.gif" alt="Computer man" style="width:150px;height:200px;">
 
 
