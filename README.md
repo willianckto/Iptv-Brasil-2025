@@ -47,6 +47,6 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 
 #
 
-<img src="https://media.tenor.com/nCWKmjQRFvkAAAAj/metalhead-metal.gif" alt="Computer man" style="width:150px;height:200px;">
+<img src="https://media.tenor.com/y3KFJlGXktwAAAAj/the-simpsons-bart-simpson.gif" alt="Computer man" style="width:150px;height:200px;">
 
 
