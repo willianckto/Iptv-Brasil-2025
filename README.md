@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBoam96OXlycDQyZ3AyZnF3eHd5NG1kb3B6eG9zeGVwaDlpaXJzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H72936V7RLQEWayYsK/giphy.webp" alt="Computer man" style="width:200px;height:200px;">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanM2ZmhnY2I1NGtuMHQzbGM5NXlncThuMGx4MzAxMWo4ejR3MTJidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jo0pEFRresAXTKrFo3/giphy.gif" alt="Computer man" style="width:200px;height:200px;">
 
 # IPTV Brasil 2025 - Canais, Filmes e Séries
 ### <i class="fa-brands fa-pix">
@@ -47,6 +47,6 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 
 #
 
-<img src="https://media1.tenor.com/m/DKatHyCJQ0IAAAAd/motorhead-discography.gif" alt="Computer man" style="width:150px;height:200px;">
+
 
 
