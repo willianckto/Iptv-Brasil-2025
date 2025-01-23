@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRlYjRhbjdpNzZlajBiYmptcmt6ejJ1b3B5ZXl0bHYxZDZrdm15MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fBEDuhnVCiP16/giphy.gif" alt="Computer man" style="width:200px;height:200px;">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3A5dmU1eG8wcDk3cXQxaG9vZ3Y0ZzA3MjhvdWlpbms3b3Ztbm1tNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kOUmDanPTTuTu/giphy.gif" alt="Computer man" style="width:200px;height:200px;">
 
 # IPTV Brasil 2025 - Canais, Filmes e Séries
 ### <i class="fa-brands fa-pix">
