@@ -1,0 +1,453 @@
+#EXTM3U
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/------|Brazil|------.png",------|Brazil|------
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2532
+#EXTINF:-1 group-title="BR Filmes e Series",BR:-----|Filmes e Series|---------------------------------
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/66011
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR104AEFHD.png",BR104:A&E FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65659
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR001A&EBR.png",BR001:A&E HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2531
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR105A&ESD.png",BR105:A&E SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65660
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR106AMCFHD.png",BR106:AMC FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65661
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR002AMCBR.png",BR002:AMC HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2530
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR107AMCSD.png",BR107:AMC SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65662
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR112AXNFHD.png",BR112:AXN FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65667
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR005AXNBR.png",BR005:AXN HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2527
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR113AXNSD.png",BR113:AXN SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65668
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR122CinemaxFHD.png",BR122:Cinemax FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65677
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR014CinemaxBR.png",BR014:Cinemax HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2518
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR123CinemaxSD.png",BR123:Cinemax SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65678
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR162FoxFHD.png",BR162:Fox FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65717
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR038FoxBR.png",BR038:Fox HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2494
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR168FoxSD.png",BR168:Fox SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65723
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR173FxFHD.png",BR173:Fx FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65728
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR044FXBR.png",BR044:FX HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2488
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR174FxSD.png",BR174:Fx SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65729
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR061Max.png",BR061:Max
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2471
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR062MaxPrime.png",BR062:Max Prime
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2470
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR063MaxUp.png",BR063:Max Up
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2469
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR064MegaPix.png",BR064:MegaPix HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2468
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR218ParamountChannelFHD.png",BR218:Paramount Channel FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65773
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR074ParamountBR.png",BR074:Paramount Channel HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2458
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR219ParamountChannelSD.png",BR219:Paramount Channel SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65774
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR232SpaceFHD.png",BR232:Space FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65787
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR086SpaceBR.png",BR086:Space HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2446
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR233SpaceSD.png",BR233:Space SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65788
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR240StudioUniversalFHD.png",BR240:Studio Universal FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65795
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR090StudioUniversal.png",BR090:Studio Universal HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2442
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR241StudioUniversalSD.png",BR241:Studio Universal SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65796
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR242SyfyFHD.png",BR242:Syfy FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65797
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR091SYFYBR.png",BR091:SYFY HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2441
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR243SyfySD.png",BR243:Syfy SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65798
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR099TLCBR.png",BR099:TLC HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2433
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR244TbsSD.png",BR244:Tbs FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65799
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR092TBSBR.png",BR092:TBS HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2440
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR082WarnerChannel.png",BR082:Warner Channel HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2450
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR267WarnerChannelSD.png",BR267:Warner Channel SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65822
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR100TNTBR.png",BR100:TNT HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2432
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR261UniversalChannelFHD.png",BR261:Universal Channel FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65816
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR103Universal.png",BR103:Universal Channel HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2429
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR262UniversalChannelSD.png",BR262:Universal Channel SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65817
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR259TNTSeriesFHD.png",BR259:TNT Series FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65814
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR101TNTSeriesBR.png",BR101:TNT Series  HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2431
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR260TNTSeriesSD.png",BR260:TNT Series SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65815
+#EXTINF:-1 group-title="BR Filmes e Series",BR272:CANAL BRASIL
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/66008
+#EXTINF:-1 group-title="BR Esportes",BR:-----|Esportes|---------------------------------
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/66013
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR008BandSports.png",BR008:Band Sports HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2524
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR015Combate.png",BR015:Combate HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2517
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR033ESPN.png",BR033:ESPN HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2499
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR031ESPNBRASIL.png",BR031:ESPN BRASIL HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2501
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR156EspnExtraSD.png",BR156:Espn Extra FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65711
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR030ESPNExtra.png",BR030:ESPN Extra HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2502
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR012CanalSony.png",BR012:FISH TV HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2520
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR073OFF.png",BR073:Off HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2459
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR042FoxSports2BR.png",BR042:Fox Sports 2 HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2490
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR043FoxSports1.png",BR043:Fox Sports 1 HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2489
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR088SportTV3.png",BR088:Sport TV 3 HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2444
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR087SportTV2.png",BR087:Sport TV 2 HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2445
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR089SportTV1.png",BR089:Sport TV 1 HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2443
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR034PFC.png",BR034:DAZN 1 HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2498
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR032WOOHOO.png",BR032:WOOHOO HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2500
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR268WoohooSD.png",BR268:Woohoo FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65823
+#EXTINF:-1 group-title="BR Musicas",BR:-----|Musicas|--------------------------
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/66168
+#EXTINF:-1 group-title="BR Musicas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR009VH1BR.png",BR009:Tooncast
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2523
+#EXTINF:-1 group-title="BR Musicas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR010BISBR.png",BR010:BIS HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2522
+#EXTINF:-1 group-title="BR Musicas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR205MtvFHD.png",BR205:Mtv FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65760
+#EXTINF:-1 group-title="BR Musicas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR065MTVBR.png",BR065:MTV HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2467
+#EXTINF:-1 group-title="BR Musicas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR207MultishowFHD.png",BR207:Multishow FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65762
+#EXTINF:-1 group-title="BR Musicas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR066Multishow.png",BR066:Multishow HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2466
+#EXTINF:-1 group-title="BR Musicas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR209MusicBoxSD.png",BR209:Music Box SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65764
+#EXTINF:-1 group-title="BR Musicas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR067MusicBox.png",BR067:BG MUSIC HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2465
+#EXTINF:-1 group-title="BR HBO",BR:-----|Canais Hbo|---------------------------------
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/66018
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR189HboFHD.png",BR189:Hbo FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65744
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR054HBOBR.png",BR054:HBO HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2478
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR193HBOSD.png",BR193:Hbo SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65748
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR186Hbo2FHD.png",BR186:Hbo 2 FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65741
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR052HBO2BR.png",BR052:HBO 2 HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2480
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR187Hbo2SD.png",BR187:Hbo 2 SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65742
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR053HBOFamilyBR.png",BR053:HBO Family HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2479
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR188HbofamilySD.png",BR188:Hbo family SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65743
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR191HboPlusFHD.png",BR191:Hbo Plus FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65746
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR055HBOPlusBR.png",BR055:HBO Plus HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2477
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR192HboPlusSD.png",BR192:Hbo Plus SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65747
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR194HboSignatureFHD.png",BR194:Hbo Signature FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65749
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR056HBOSignatureBR.png",BR056:HBO Signature HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2476
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR195HboSignatureSD.png",BR195:Hbo Signature SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65750
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR196HboXtremeFHD.png",BR196:Hbo Xtreme FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65751
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR197HboXtremeSD.png",BR197:Hbo Xtreme SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65752
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR190HboMundiSD.png",BR190:Hbo Mundi SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65745
+#EXTINF:-1 group-title="BR Telecine",BR:-----|Canais Telecine|---------------------------------
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/66012
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR245TelecineActionFHD.png",BR245:Telecine Action FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65800
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR093TelecineAction.png",BR093:Telecine Action HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2439
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR246TelecineActionSD.png",BR246:Telecine Action SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65801
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR247TelecineCultFHD.png",BR247:Telecine Cult FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65802
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR094TelecineCult.png",BR094:Telecine Cult HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2438
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR248TelecineCultSD.png",BR248:Telecine Cult SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65803
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR251TelecinePipocaFHD.png",BR251:Telecine Pipoca FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65806
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR096TelecinePipoca.png",BR096:Telecine Pipoca HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2436
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR252TelecinePipocaSD.png",BR252:Telecine Pipoca SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65807
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR249TelecineFunFHD.png",BR249:Telecine Fun FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65804
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR095TelecineFun.png",BR095:Telecine Fun HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2437
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR250TelecineFunSD.png",BR250:Telecine Fun SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65805
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR253TelecinePremiumFHD.png",BR253:Telecine Premium FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65808
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR097TelecinePremium.png",BR097:Telecine Premium HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2435
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR254TelecinePremiumSD.png",BR254:Telecine Premium SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65809
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR255TelecineTouchFHD.png",BR255:Telecine Touch FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65810
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR098TelecineTouch.png",BR098:Telecine Touch HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2434
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR256TelecineTouchSD.png",BR256:Telecine Touch SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65811
+#EXTINF:-1 group-title="BR Premiere",BR:-----|Canais Premiere|---------------------------------
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/66019
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR220Premiere2FHD.png",BR220:Premiere 2 FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65775
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR075Premiere2.png",BR075:Premiere 2 HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2457
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR221Premiere2SD.png",BR221:Premiere 2 SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65776
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR076Premiere3.png",BR076:Premiere 3 HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2456
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR222Premiere3SD.png",BR222:Premiere 3 SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65777
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR223Premiere4FHD.png",BR223:Premiere 4 FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65778
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR077Premiere4.png",BR077:Premiere 4 HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2455
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR224Premiere4SD.png",BR224:Premiere 4 SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65779
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR225Premiere5FHD.png",BR225:Premiere 5 FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65780
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR078Premiere5.png",BR078:Premiere 5 HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2454
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR226Premiere5SD.png",BR226:Premiere 5 SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65781
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR227PremiereClubesFHD.png",BR227:Premiere Clubes FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65782
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR081PremiereClubes.png",BR081:Premiere Clubes HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2451
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR228PremiereClubesSD.png",BR228:Premiere Clubes SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65783
+#EXTINF:-1 group-title="BR Variedades",BR:-----|Variedades|---------------------------------
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/66014
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR128comedycentralFHD.png",BR128:comedy central FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65683
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR016ComedyCentralBR.png",BR016:Comedy Central HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2516
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR129comedycentralSD.png",BR129:comedy central SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65684
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR134DiscoveryHomeHealthFHD.png",BR134:Discovery Home & Health FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65689
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR020DiscoveryHomeHealth.png",BR020:Discovery Home Health HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2512
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR135DiscoveryHomeHealthSD.png",BR135:Discovery Home & Health SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65690
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR029E!BR.png",BR029:E! HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2503
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR153E!SD.png",BR153:E! SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65708
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR160FoodNetworkFHD.png",BR160:Food Network FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65715
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR037FoodNetworkBR.png",BR037:Food Network HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2495
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR161FoodNetworkSD.png",BR161:Food Network SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65716
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR039FoxLife.png",BR039:Fox Life HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2493
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR163FoxLifeSD.png",BR163:Fox Life SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65718
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR060MaisGlobosat.png",BR060:Mais Globosat
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2472
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR050GNTBR.png",BR050:GNT HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2482
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR183GntSD.png",BR183:Gnt SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65738
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR059LifetimeBR.png",BR059:Lifetime HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2473
+#EXTINF:-1 group-title="BR Variedades",BR273:REDE VIDA HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/49959
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR264VivaFHD.png",BR264:Viva FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65819
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR035VIVABR.png",BR035:VIVA HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2497
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR265VivaSD.png",BR265:Viva SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65820
+#EXTINF:-1 group-title="BR Documentarios",BR:-----|Documentarios|---------------------------------
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/66167
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR108AnimalPlanetFHD.png",BR108:Animal Planet FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65663
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR003AnimalPlanetBR.png",BR003:Animal Planet HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2529
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR018DiscoveryBR.png",BR018:Discovery HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2514
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR019DiscoveryCivilization.png",BR019:Discovery Civilization HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2513
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR138DiscoveryScienceFHD.png",BR138:Discovery Science FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65693
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR022DiscoveryScienceBR.png",BR022:Discovery Science HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2510
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR139DiscoveryScienceSD.png",BR139:Discovery Science SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65694
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR023DiscoveryTheater.png",BR023:Discovery Theater HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2509
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR024DiscoveryTurbo.png",BR024:Discovery Turbo HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2508
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR144DiscoveryTurboSD.png",BR144:Discovery Turbo SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65699
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR145DiscoveryWorldFHD.png",BR145:Discovery World FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65700
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR025DiscoveryWORLD.png",BR025:Discovery World HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2507
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR146DiscoveryWorldSD.png",BR146:Discovery World SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65701
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR058IDBR.png",BR058:Investigacao Discovery HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2474
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR201InvestigacaoDiscoverySD.png",BR201:Investigacao Discovery SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65756
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR184H2FHD.png",BR184:H2 FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65739
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR051H2BR.png",BR051:H2 HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2481
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR185H2SD.png",BR185:H2 SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65740
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR198HistoryChannelFHD.png",BR198:History Channel FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65753
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR057HistoryBR.png",BR057:History HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2475
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR199HistoryChannelSD.png",BR199:History Channel SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65754
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR068NATGEOBR.png",BR068:NAT GEO HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2464
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR070NATGEOWildBR.png",BR070:NAT GEO Wild HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2462
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR142DiscoveryTLCSD.png",BR142:Discovery TLC SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65697
+#EXTINF:-1 group-title="BR Infantis",BR:-----|Infantis|---------------------------------
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/66016
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR017BabyTV.png",BR017:Baby TV HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2515
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR118BoomerangFHD.png",BR118:Boomerang FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65673
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR011BoomerangBR.png",BR011:Boomerang HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2521
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR120CartoonNetworkFHD.png",BR120:Cartoon Network FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65675
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR013CartoonNetworkBR.png",BR013:Cartoon Network HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2519
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR121CartoonNetworkSD.png",BR121:Cartoon Network SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65676
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR119BoomerangSD.png",BR119:Boomerang SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65674
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR147DisneyChannelFHD.png",BR147:Disney Channel FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65702
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR026DisneyBR.png",BR026:Disney HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2506
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR148DisneyChannelSD.png",BR148:Disney Channel SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65703
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR027DISNEYJRBR.png",BR027:DISNEY JR HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2505
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR028DisneyXDBR.png",BR028:Disney XD HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2504
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR136DiscoveryKidsFHD.png",BR136:Discovery Kids FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65691
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR021DiscoveryKids.png",BR021:Discovery Kids HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2511
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR137DiscoveryKidsSD.png",BR137:Discovery Kids SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65692
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR049Gloobinho.png",BR049:Gloobinho HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2483
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR182GloobinhoSD.png",BR182:Gloobinho SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65737
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR069NATGEOKidsBR.png",BR069:NAT GEO Kids HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2463
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR211NatGeoKidsSD.png",BR211:Nat Geo Kids SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65766
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR214NickJRFHD.png",BR214:Nick JR FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65769
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR071NICKJRBR.png",BR071:NICK JR HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2461
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR215NickJRSD.png",BR215:Nick JR SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65770
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR072NickelodeonBR.png",BR072:Nickelodeon FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2460
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR216NickelodeonSD.png",BR216:Nickelodeon SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65771
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR180GloobFHD.png",BR180:Gloob FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65735
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR102TVRaTimBum.png",BR102:TV Ra Tim Bum
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2430
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR181GloobSD.png",BR181:Gloob SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65736
+#EXTINF:-1 group-title="BR Noticias",BR:-----|Noticias|-----------------------
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/66165
+#EXTINF:-1 group-title="BR Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR079Premiere6.png",BR079:CNN BRASIL HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2453
+#EXTINF:-1 group-title="BR Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR007BandNewsBR.png",BR007:Band News HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2525
+#EXTINF:-1 group-title="BR Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR176GloboNewsFHD.png",BR176:Globo News FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65731
+#EXTINF:-1 group-title="BR Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR177GloboNewsSD.png",BR177:Globo News SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65732
+#EXTINF:-1 group-title="BR Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR045GloboNewsBR.png",BR045:Globo News HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2487
+#EXTINF:-1 group-title="BR Rede Globo",BR:-----|Rede Globo|---------------------------------
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/66015
+#EXTINF:-1 group-title="BR Rede Globo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR046GLOBORBSTVPORTOALEGRE.png",BR046:Globo Rbs Porto Alegre
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2486
+#EXTINF:-1 group-title="BR Rede Globo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR048GloboBR.png",BR048:Globo HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2484
+#EXTINF:-1 group-title="BR Rede Globo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR047GloboRJ.png",BR047:Globo RJ HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2485
+#EXTINF:-1 group-title="BR Rede Globo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR080GloboSP.png",BR080:Globo SP
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2452
+#EXTINF:-1 group-title="BR Rede Globo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR179GloboRJSD.png",BR179:GLOBO MINAS
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65734
+#EXTINF:-1 group-title="BR Rede Globo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR178GloboRJFHD.png",BR178:Globo Amazonas
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65733
+#EXTINF:-1 group-title="BR Rede Globo",BR271:Globo Rio HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/66007
+#EXTINF:-1 group-title="BR Rede Globo",BR270:Globo Nordeste HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/66006
+#EXTINF:-1 group-title="BR Abertos",BR:-----|Canais Abertos|---------------------------------
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/66017
+#EXTINF:-1 group-title="BR Abertos" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR230SbtFHD.png",BR230:Sbt FHD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65785
+#EXTINF:-1 group-title="BR Abertos" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR085SBT.png",BR085:SBT HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2447
+#EXTINF:-1 group-title="BR Abertos" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR231SbtSD.png",BR231:Sbt SD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65786
+#EXTINF:-1 group-title="BR Abertos" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR036TVRecord.png",BR036:TV Record HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2496
+#EXTINF:-1 group-title="BR Abertos" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR083Record.png",BR083:Record Amazonas
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2449
+#EXTINF:-1 group-title="BR Abertos" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR084RedeTV.png",BR084:Rede TV HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2448
+#EXTINF:-1 group-title="BR Abertos" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR229RedeTVSD.png",BR229:Tv Brasil
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/65784
+#EXTINF:-1 group-title="BR Abertos" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR006BandBR.png",BR006:Band HD
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2526
