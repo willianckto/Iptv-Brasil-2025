@@ -1,7 +1,7 @@
-<img src="https://media1.giphy.com/media/krkrHAEodHgzP72rTI/200.webp?cid=ecf05e470up7ueqmu7gu6bmzjsug6xcnt5d4613x8nlvgko4&ep=v1_gifs_related&rid=200.webp&ct=g" alt="Computer man" style="width:200px;height:200px;">
-"acunha paferro"
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNhc2x3eGY2anU3OW92bnBzY3R6dmNvOGRiMGNiZTE2M2I5Z2JnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpBzI2mSpQGni7MREG/giphy.gif" alt="Computer man" style="width:350px;height:200px;">
+"What I've Done"
 
-### 💻 https://www.youtube.com/@JulianoDub
+### 💻 https://www.youtube.com/watch?v=8sgycukafqQ
 
 # IPTV Brasil 2025 - Canais, Filmes e Séries
 ### <i class="fa-brands fa-pix">
