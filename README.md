@@ -42,7 +42,7 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 |-----------------|------------------------|---------------------------------------|----------------------------------------|
 | Iptv1  | `899559`               | 316805                                |  http://supersonictv.live:8080         |
 | Iptv2  | `329474`               | 903964                                |  http://supersonictv.live:8080         |
-| Iptv3  | `topuhzxkakaacascfswcfvsavfasvsdgf`     | sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353     | http://cnalest.com:80                  |
+| Iptv3  |      |      |                   |
 | Iptv4  | `1103581436`           | 4099381829                            |  http://zkbvzkj.megahdtv.xyz:80        |
 
 #
