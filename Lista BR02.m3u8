@@ -1,279 +1,851 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BR| Agro Brasil TV" tvg-logo="http://myportal.live:8080/images/822d86a21921864543490c5e596c6b69.png" group-title="BRASIL",BR| Agro Brasil TV
-http://15.235.144.67:35461/654321/123456/7814
-#EXTINF:-1 tvg-id="" tvg-name="BR| All Sports" tvg-logo="http://myportal.live:8080/images/dd0adb2707019ec75c7ab58f6f9c0962.png" group-title="BRASIL",BR| All Sports
-http://15.235.144.67:35461/654321/123456/7813
-#EXTINF:-1 tvg-id="" tvg-name="BR| As Aventuras de Jackie Chan" tvg-logo="http://myportal.live:8080/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="BRASIL",BR| As Aventuras de Jackie Chan
-http://15.235.144.67:35461/654321/123456/7809
-#EXTINF:-1 tvg-id="" tvg-name="BR| BAND SPORTS" tvg-logo="" group-title="BRASIL",BR| BAND SPORTS
-http://15.235.144.67:35461/654321/123456/7803
-#EXTINF:-1 tvg-id="" tvg-name="BR| Canal Saúde" tvg-logo="http://myportal.live:8080/images/556e327287fe83d81e8c3fc060231f74.png" group-title="BRASIL",BR| Canal Saúde
-http://15.235.144.67:35461/654321/123456/7800
-#EXTINF:-1 tvg-id="" tvg-name="BR| CBN Rio" tvg-logo="http://myportal.live:8080/images/9fafa2a79161e800ff56da8e313ebbc9.png" group-title="BRASIL",BR| CBN Rio
-http://15.235.144.67:35461/654321/123456/7792
-#EXTINF:-1 tvg-id="" tvg-name="BR| CBN São Paulo" tvg-logo="http://myportal.live:8080/images/9fafa2a79161e800ff56da8e313ebbc9.png" group-title="BRASIL",BR| CBN São Paulo
-http://15.235.144.67:35461/654321/123456/7791
-#EXTINF:-1 tvg-id="" tvg-name="BR| ESPN 2 TLLL" tvg-logo="http://myportal.live:8080/images/2e74f686a3a6b40c070329fd2ae3b61e.png" group-title="BRASIL",BR| ESPN 2 TLLL
-http://15.235.144.67:35461/654321/123456/7778
-#EXTINF:-1 tvg-id="" tvg-name="BR| Futura HD" tvg-logo="http://myportal.live:8080/images/3c67014c0b76e2a835b16fa0c20ee5dd.png" group-title="BRASIL",BR| Futura HD
-http://15.235.144.67:35461/654321/123456/7771
-#EXTINF:-1 tvg-id="" tvg-name="BR| FUTURA" tvg-logo="http://myportal.live:8080/images/40ef46d735c8a918615f4c25291cb693.png" group-title="BRASIL",BR| FUTURA
-http://15.235.144.67:35461/654321/123456/7770
-#EXTINF:-1 tvg-id="" tvg-name="BR| Ghost TV" tvg-logo="http://myportal.live:8080/images/df19a8112b7bf89808ccd3bf3edfb7f0.png" group-title="BRASIL",BR| Ghost TV
-http://15.235.144.67:35461/654321/123456/7768
-#EXTINF:-1 tvg-id="" tvg-name="BR| Globo Anhanguera Goiania SD" tvg-logo="" group-title="BRASIL",BR| Globo Anhanguera Goiania SD
-http://15.235.144.67:35461/654321/123456/7767
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO SP FHD" tvg-logo="http://myportal.live:8080/images/69ed559f1977f90bdc45305576c3974d.png" group-title="BRASIL",BR| GLOBO SP FHD
-http://15.235.144.67:35461/654321/123456/7766
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO TV TRIBUNA SANTOS FHD" tvg-logo="" group-title="BRASIL",BR| GLOBO TV TRIBUNA SANTOS FHD
-http://15.235.144.67:35461/654321/123456/7763
-#EXTINF:-1 tvg-id="" tvg-name="BR| GNT HD" tvg-logo="http://myportal.live:8080/images/919950f341ef34ba90caa425a5c14fb6.png" group-title="BRASIL",BR| GNT HD
-http://15.235.144.67:35461/654321/123456/7762
-#EXTINF:-1 tvg-id="" tvg-name="BR| H2" tvg-logo="" group-title="BRASIL",BR| H2
-http://15.235.144.67:35461/654321/123456/7759
-#EXTINF:-1 tvg-id="" tvg-name="BR| HBO SIGNATURE" tvg-logo="http://myportal.live:8080/images/94eb69e4843da7fa01d6ea381969c83a.png" group-title="BRASIL",BR| HBO SIGNATURE
-http://15.235.144.67:35461/654321/123456/7752
-#EXTINF:-1 tvg-id="" tvg-name="BR| HGTV HD" tvg-logo="http://myportal.live:8080/images/91c4e5493191d1e3462cf3d8acb60ff5.png" group-title="BRASIL",BR| HGTV HD
-http://15.235.144.67:35461/654321/123456/7750
-#EXTINF:-1 tvg-id="" tvg-name="BR| KpopTV Play" tvg-logo="http://myportal.live:8080/images/e10571d2230a1fdc81e4e59c48e1195a.png" group-title="BRASIL",BR| KpopTV Play
-http://15.235.144.67:35461/654321/123456/7744
-#EXTINF:-1 tvg-id="" tvg-name="BR| LIFETIME HD" tvg-logo="http://myportal.live:8080/images/e11f772a10934dae6f96ed1fe2672843.png" group-title="BRASIL",BR| LIFETIME HD
-http://15.235.144.67:35461/654321/123456/7743
-#EXTINF:-1 tvg-id="" tvg-name="BR| Multishow HD" tvg-logo="http://myportal.live:8080/images/d664b712b56284756fd6a88e3f94e64b.png" group-title="BRASIL",BR| Multishow HD
-http://15.235.144.67:35461/654321/123456/7737
-#EXTINF:-1 tvg-id="" tvg-name="BR| MUSIC BOX BRAZIL FHD" tvg-logo="" group-title="BRASIL",BR| MUSIC BOX BRAZIL FHD
-http://15.235.144.67:35461/654321/123456/7736
-#EXTINF:-1 tvg-id="" tvg-name="BR| NICKELODEON HD" tvg-logo="http://myportal.live:8080/images/0b3e93c1c37a1329fabd6e645f3cddbc.png" group-title="BRASIL",BR| NICKELODEON HD
-http://15.235.144.67:35461/654321/123456/7728
-#EXTINF:-1 tvg-id="" tvg-name="BR| Nova Era TV" tvg-logo="http://myportal.live:8080/images/d749619f29d53f4f0a2e31423aeabeb4.png" group-title="BRASIL",BR| Nova Era TV
-http://15.235.144.67:35461/654321/123456/7726
-#EXTINF:-1 tvg-id="" tvg-name="BR| Novo Tempo SD" tvg-logo="http://myportal.live:8080/images/007f4f7a17a5e702d40e91ebccfa275c.png" group-title="BRASIL",BR| Novo Tempo SD
-http://15.235.144.67:35461/654321/123456/7724
-#EXTINF:-1 tvg-id="" tvg-name="BR| O Reino Infantil" tvg-logo="http://myportal.live:8080/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="BRASIL",BR| O Reino Infantil
-http://15.235.144.67:35461/654321/123456/7723
-#EXTINF:-1 tvg-id="" tvg-name="BR| Pluto TV Kids" tvg-logo="http://myportal.live:8080/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="BRASIL",BR| Pluto TV Kids
-http://15.235.144.67:35461/654321/123456/7705
-#EXTINF:-1 tvg-id="" tvg-name="BR| PREMIERE 1 HD" tvg-logo="" group-title="BRASIL",BR| PREMIERE 1 HD
-http://15.235.144.67:35461/654321/123456/7696
-#EXTINF:-1 tvg-id="" tvg-name="BR| PREMIERE 4" tvg-logo="http://myportal.live:8080/images/7b928f25e986cc3a78677606233bd506.png" group-title="BRASIL",BR| PREMIERE 4
-http://15.235.144.67:35461/654321/123456/7694
-#EXTINF:-1 tvg-id="" tvg-name="BR| PREMIERE 7" tvg-logo="http://myportal.live:8080/images/d4c2d2b802ecc37f3ef4e5c1e175e58f.png" group-title="BRASIL",BR| PREMIERE 7
-http://15.235.144.67:35461/654321/123456/7693
-#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD NEWS FHD" tvg-logo="http://myportal.live:8080/images/fd25ed65587ce938fb2516d14fcccc08.png" group-title="BRASIL",BR| RECORD NEWS FHD
-http://15.235.144.67:35461/654321/123456/7690
-#EXTINF:-1 tvg-id="" tvg-name="BR| Record TV RECORD NORDESTE FHD" tvg-logo="" group-title="BRASIL",BR| Record TV RECORD NORDESTE FHD
-http://15.235.144.67:35461/654321/123456/7689
-#EXTINF:-1 tvg-id="" tvg-name="BR| Record RJ HD" tvg-logo="" group-title="BRASIL",BR| Record RJ HD
-http://15.235.144.67:35461/654321/123456/7688
-#EXTINF:-1 tvg-id="" tvg-name="BR| Rede Mão Amiga" tvg-logo="http://myportal.live:8080/images/bfb4337ca3ecd52a793b4da5abbb5b2c.png" group-title="BRASIL",BR| Rede Mão Amiga
-http://15.235.144.67:35461/654321/123456/7684
-#EXTINF:-1 tvg-id="" tvg-name="BR| Rede RC" tvg-logo="http://myportal.live:8080/images/56fa85e31ecbb02618e82166fef75038.png" group-title="BRASIL",BR| Rede RC
-http://15.235.144.67:35461/654321/123456/7683
-#EXTINF:-1 tvg-id="" tvg-name="BR| Rede TV FHD" tvg-logo="http://myportal.live:8080/images/d8b3015bcf571540145a0fad396b2556.png" group-title="BRASIL",BR| Rede TV FHD
-http://15.235.144.67:35461/654321/123456/7680
-#EXTINF:-1 tvg-id="" tvg-name="BR| Rede Vida" tvg-logo="http://myportal.live:8080/images/748711a8b50e2d48dd0b3524c78b6bcc.png" group-title="BRASIL",BR| Rede Vida
-http://15.235.144.67:35461/654321/123456/7679
-#EXTINF:-1 tvg-id="" tvg-name="BR| Santa Cecilia TV" tvg-logo="http://myportal.live:8080/images/9310d3024acec61ca7eb80dfa8c90f76.png" group-title="BRASIL",BR| Santa Cecilia TV
-http://15.235.144.67:35461/654321/123456/7676
-#EXTINF:-1 tvg-id="" tvg-name="BR| SBT FHD" tvg-logo="http://myportal.live:8080/images/8e3416f96ddeaf2e70e6af49d9af4afb.png" group-title="BRASIL",BR| SBT FHD
-http://15.235.144.67:35461/654321/123456/7675
-#EXTINF:-1 tvg-id="" tvg-name="BR| SPACE" tvg-logo="http://myportal.live:8080/images/e65ecb21dbf21c02b2b6be39a766d06a.png" group-title="BRASIL",BR| SPACE
-http://15.235.144.67:35461/654321/123456/7671
-#EXTINF:-1 tvg-id="" tvg-name="BR| SPORTV 2" tvg-logo="http://myportal.live:8080/images/237ba8e9e81d7884d8dc82ff883fc522.png" group-title="BRASIL",BR| SPORTV 2
-http://15.235.144.67:35461/654321/123456/7669
-#EXTINF:-1 tvg-id="" tvg-name="BR| SPORTV 3" tvg-logo="http://myportal.live:8080/images/594dd17c9da4472e883c90de9bab9054.png" group-title="BRASIL",BR| SPORTV 3
-http://15.235.144.67:35461/654321/123456/7668
-#EXTINF:-1 tvg-id="" tvg-name="BR| Star Life HD" tvg-logo="" group-title="BRASIL",BR| Star Life HD
-http://15.235.144.67:35461/654321/123456/7667
-#EXTINF:-1 tvg-id="" tvg-name="BR| STUDIO UNIVERSAL FHD" tvg-logo="http://static.epgguide.net/icon/studiouniversal.br.png" group-title="BRASIL",BR| STUDIO UNIVERSAL FHD
-http://15.235.144.67:35461/654321/123456/7666
-#EXTINF:-1 tvg-id="" tvg-name="BR| SYFY HD" tvg-logo="http://myportal.live:8080/images/0342ce377467b4330f7439751c43eab7.png" group-title="BRASIL",BR| SYFY HD
-http://15.235.144.67:35461/654321/123456/7665
-#EXTINF:-1 tvg-id="" tvg-name="BR| Tastemade Brasil" tvg-logo="http://myportal.live:8080/images/05935214fc5f017151d0c81ed9e1a981.png" group-title="BRASIL",BR| Tastemade Brasil
-http://15.235.144.67:35461/654321/123456/7664
-#EXTINF:-1 tvg-id="" tvg-name="BR| TCM" tvg-logo="http://myportal.live:8080/images/be3df4891b30b570f95232586647a1f5.png" group-title="BRASIL",BR| TCM
-http://15.235.144.67:35461/654321/123456/7662
-#EXTINF:-1 tvg-id="" tvg-name="BR| TELE CINE ACTION" tvg-logo="http://myportal.live:8080/images/5181381d36dfa8feca5f864b21579f09.png" group-title="BRASIL",BR| TELE CINE ACTION
-http://15.235.144.67:35461/654321/123456/7661
-#EXTINF:-1 tvg-id="" tvg-name="BR| TELECINE ACTION HD" tvg-logo="http://myportal.live:8080/images/3c59920ab70388e63f511fa9facd16c2.png" group-title="BRASIL",BR| TELECINE ACTION HD
-http://15.235.144.67:35461/654321/123456/7660
-#EXTINF:-1 tvg-id="" tvg-name="BR| TELECINE CULT" tvg-logo="http://myportal.live:8080/images/8df24522e60d1889c3ecbdc46819a25e.png" group-title="BRASIL",BR| TELECINE CULT
-http://15.235.144.67:35461/654321/123456/7659
-#EXTINF:-1 tvg-id="" tvg-name="BR| Terra Viva" tvg-logo="http://myportal.live:8080/images/87b23a120cc56ca3376e1252817f3a06.png" group-title="BRASIL",BR| Terra Viva
-http://15.235.144.67:35461/654321/123456/7658
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV Aberta" tvg-logo="http://myportal.live:8080/images/4b5bbabbd6b87180ed076363582961ee.png" group-title="BRASIL",BR| TV Aberta
-http://15.235.144.67:35461/654321/123456/7648
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV Cidade Canal 9" tvg-logo="http://myportal.live:8080/images/82d46ee4656323774e1fde8677790a49.png" group-title="BRASIL",BR| TV Cidade Canal 9
-http://15.235.144.67:35461/654321/123456/7641
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV Guará" tvg-logo="http://myportal.live:8080/images/d595b98cc36332987b97b9a4790223db.png" group-title="BRASIL",BR| TV Guará
-http://15.235.144.67:35461/654321/123456/7632
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV Mackenzie" tvg-logo="http://myportal.live:8080/images/61b36bcb7d4a7131f8fd35a6779596d9.png" group-title="BRASIL",BR| TV Mackenzie
-http://15.235.144.67:35461/654321/123456/7630
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV Mon" tvg-logo="http://myportal.live:8080/images/66aa3279e122cb9ad66adc053bafeb2f.png" group-title="BRASIL",BR| TV Mon
-http://15.235.144.67:35461/654321/123456/7628
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV Pai Eterno" tvg-logo="http://myportal.live:8080/images/1f38b44d2f0b75de03d3d58586e74d57.png" group-title="BRASIL",BR| TV Pai Eterno
-http://15.235.144.67:35461/654321/123456/7627
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV Verdes Campos" tvg-logo="http://myportal.live:8080/images/c26dbed1bbc9126e6d37029d2364fdd9.png" group-title="BRASIL",BR| TV Verdes Campos
-http://15.235.144.67:35461/654321/123456/7618
-#EXTINF:-1 tvg-id="" tvg-name="BR | AXN HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/BRAZIL/AXNHD.png" group-title="BRASIL",BR | AXN HD
-http://15.235.144.67:35461/654321/123456/7603
-#EXTINF:-1 tvg-id="" tvg-name="BR | Baby TV" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ALBANIAANDKOSOVO/BABYTV.png" group-title="BRASIL",BR | Baby TV
-http://15.235.144.67:35461/654321/123456/7601
-#EXTINF:-1 tvg-id="" tvg-name="BR | Band News HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/BRAZIL/BANDNEWSHD.png" group-title="BRASIL",BR | Band News HD
-http://15.235.144.67:35461/654321/123456/7600
-#EXTINF:-1 tvg-id="" tvg-name="BR | Band Sports FHD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/BRAZIL/BANDSPORTHD.png" group-title="BRASIL",BR | Band Sports FHD
-http://15.235.144.67:35461/654321/123456/7599
-#EXTINF:-1 tvg-id="" tvg-name="BR | Canal Brasil HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/BRAZIL/CANALBRASILHD.png" group-title="BRASIL",BR | Canal Brasil HD
-http://15.235.144.67:35461/654321/123456/7596
-#EXTINF:-1 tvg-id="" tvg-name="BR | Combate HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/BRAZIL/COMBATEHD.png" group-title="BRASIL",BR | Combate HD
-http://15.235.144.67:35461/654321/123456/7595
-#EXTINF:-1 tvg-id="" tvg-name="BR | Discovery Kids FHD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/BRAZIL/DISCOVERYKIDSHD.png" group-title="BRASIL",BR | Discovery Kids FHD
-http://15.235.144.67:35461/654321/123456/7593
-#EXTINF:-1 tvg-id="" tvg-name="BR | Discovery TLC FHD" tvg-logo="" group-title="BRASIL",BR | Discovery TLC FHD
-http://15.235.144.67:35461/654321/123456/7591
-#EXTINF:-1 tvg-id="" tvg-name="BR | Discovery Turbo FHD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/BRAZIL/DISCOVERYTURBOHD.png" group-title="BRASIL",BR | Discovery Turbo FHD
-http://15.235.144.67:35461/654321/123456/7590
-#EXTINF:-1 tvg-id="" tvg-name="BR | Disney Junior FHD" tvg-logo="" group-title="BRASIL",BR | Disney Junior FHD
-http://15.235.144.67:35461/654321/123456/7588
-#EXTINF:-1 tvg-id="" tvg-name="E! FHD*" tvg-logo="" group-title="BRASIL",E! FHD*
-http://15.235.144.67:35461/654321/123456/7587
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="" group-title="BRASIL",ESPN 2 SD
-http://15.235.144.67:35461/654321/123456/7586
-#EXTINF:-1 tvg-id="" tvg-name="BR | ESPN Brasil FHD" tvg-logo="" group-title="BRASIL",BR | ESPN Brasil FHD
-http://15.235.144.67:35461/654321/123456/7585
-#EXTINF:-1 tvg-id="" tvg-name="BR | ESPN FHD" tvg-logo="" group-title="BRASIL",BR | ESPN FHD
-http://15.235.144.67:35461/654321/123456/7584
-#EXTINF:-1 tvg-id="" tvg-name="Fish TV HD" tvg-logo="" group-title="BRASIL",Fish TV HD
-http://15.235.144.67:35461/654321/123456/7583
-#EXTINF:-1 tvg-id="" tvg-name="BR | FX SD" tvg-logo="" group-title="BRASIL",BR | FX SD
-http://15.235.144.67:35461/654321/123456/7581
-#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia" tvg-logo="" group-title="BRASIL",Globo Brasilia
-http://15.235.144.67:35461/654321/123456/7580
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas HD" tvg-logo="" group-title="BRASIL",Globo EPTV Campinas HD
-http://15.235.144.67:35461/654321/123456/7579
-#EXTINF:-1 tvg-id="" tvg-name="Globo Internacional" tvg-logo="" group-title="BRASIL",Globo Internacional
-http://15.235.144.67:35461/654321/123456/7578
-#EXTINF:-1 tvg-id="" tvg-name="BR | Globo Minas HD" tvg-logo="" group-title="BRASIL",BR | Globo Minas HD
-http://15.235.144.67:35461/654321/123456/7576
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica SD" tvg-logo="" group-title="BRASIL",Globo Rede Amazonica SD
-http://15.235.144.67:35461/654321/123456/7575
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP FHD" tvg-logo="" group-title="BRASIL",Globo SP FHD
-http://15.235.144.67:35461/654321/123456/7572
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV São Carlos SD" tvg-logo="" group-title="BRASIL",Globo EPTV São Carlos SD
-http://15.235.144.67:35461/654321/123456/7571
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="" group-title="BRASIL",Globo RBS TV Pelotas HD
-http://15.235.144.67:35461/654321/123456/7570
-#EXTINF:-1 tvg-id="" tvg-name="BR | Espn 1 HD" tvg-logo="" group-title="BRASIL",BR | Espn 1 HD
-http://15.235.144.67:35461/654321/123456/7567
-#EXTINF:-1 tvg-id="" tvg-name="BR | Premiere 1 HD" tvg-logo="" group-title="BRASIL",BR | Premiere 1 HD
-http://15.235.144.67:35461/654321/123456/7566
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE 7" tvg-logo="" group-title="BRASIL",BR | PREMIERE 7
-http://15.235.144.67:35461/654321/123456/7564
-#EXTINF:-1 tvg-id="" tvg-name="BR | SPORTV 3 HD" tvg-logo="" group-title="BRASIL",BR | SPORTV 3 HD
-http://15.235.144.67:35461/654321/123456/7563
-#EXTINF:-1 tvg-id="" tvg-name="AgroBrasil TV (486p)" tvg-logo="" group-title="BRASIL",AgroBrasil TV (486p)
-http://15.235.144.67:35461/654321/123456/7561
-#EXTINF:-1 tvg-id="" tvg-name="Canal Saúde (720p)" tvg-logo="" group-title="BRASIL",Canal Saúde (720p)
-http://15.235.144.67:35461/654321/123456/7560
-#EXTINF:-1 tvg-id="" tvg-name="Terra Viva (720p)" tvg-logo="" group-title="BRASIL",Terra Viva (720p)
-http://15.235.144.67:35461/654321/123456/7559
-#EXTINF:-1 tvg-id="" tvg-name="C-Ghost (480p)" tvg-logo="" group-title="BRASIL",C-Ghost (480p)
-http://15.235.144.67:35461/654321/123456/7556
-#EXTINF:-1 tvg-id="" tvg-name="Rede Massa Brasil (720p)" tvg-logo="" group-title="BRASIL",Rede Massa Brasil (720p)
-http://15.235.144.67:35461/654321/123456/7555
-#EXTINF:-1 tvg-id="" tvg-name="Rede Minas (1080p)" tvg-logo="" group-title="BRASIL",Rede Minas (1080p)
-http://15.235.144.67:35461/654321/123456/7554
-#EXTINF:-1 tvg-id="" tvg-name="TV Aberta SP (1080p)" tvg-logo="" group-title="BRASIL",TV Aberta SP (1080p)
-http://15.235.144.67:35461/654321/123456/7549
-#EXTINF:-1 tvg-id="" tvg-name="Canal 25 Jundiaí [Not 24/7]" tvg-logo="" group-title="BRASIL",Canal 25 Jundiaí [Not 24/7]
-http://15.235.144.67:35461/654321/123456/7548
-#EXTINF:-1 tvg-id="" tvg-name="Rede RC (360p)" tvg-logo="" group-title="BRASIL",Rede RC (360p)
-http://15.235.144.67:35461/654321/123456/7545
-#EXTINF:-1 tvg-id="" tvg-name="TV Cidade Canal 9 (720p)" tvg-logo="" group-title="BRASIL",TV Cidade Canal 9 (720p)
-http://15.235.144.67:35461/654321/123456/7544
-#EXTINF:-1 tvg-id="" tvg-name="TV Cidade de Petrópolis (720p)" tvg-logo="" group-title="BRASIL",TV Cidade de Petrópolis (720p)
-http://15.235.144.67:35461/654321/123456/7543
-#EXTINF:-1 tvg-id="" tvg-name="TV Digital Birigui (320p)" tvg-logo="" group-title="BRASIL",TV Digital Birigui (320p)
-http://15.235.144.67:35461/654321/123456/7542
-#EXTINF:-1 tvg-id="" tvg-name="TV Galega Blumenau (720p)" tvg-logo="" group-title="BRASIL",TV Galega Blumenau (720p)
-http://15.235.144.67:35461/654321/123456/7541
-#EXTINF:-1 tvg-id="" tvg-name="TV Sol Comunidade (480p)" tvg-logo="" group-title="BRASIL",TV Sol Comunidade (480p)
-http://15.235.144.67:35461/654321/123456/7538
-#EXTINF:-1 tvg-id="" tvg-name="TVE RS (1080p)" tvg-logo="" group-title="BRASIL",TVE RS (1080p)
-http://15.235.144.67:35461/654321/123456/7534
-#EXTINF:-1 tvg-id="" tvg-name="TVO TOCOPILLA (360p)" tvg-logo="" group-title="BRASIL",TVO TOCOPILLA (360p)
-http://15.235.144.67:35461/654321/123456/7532
-#EXTINF:-1 tvg-id="" tvg-name="CBN Rio" tvg-logo="" group-title="BRASIL",CBN Rio
-http://15.235.144.67:35461/654321/123456/7531
-#EXTINF:-1 tvg-id="" tvg-name="CBN São Paulo" tvg-logo="" group-title="BRASIL",CBN São Paulo
-http://15.235.144.67:35461/654321/123456/7530
-#EXTINF:-1 tvg-id="" tvg-name="TV IKIM" tvg-logo="" group-title="BRASIL",TV IKIM
-http://15.235.144.67:35461/654321/123456/7527
-#EXTINF:-1 tvg-id="" tvg-name="COM Brasil (720p)" tvg-logo="" group-title="BRASIL",COM Brasil (720p)
-http://15.235.144.67:35461/654321/123456/7526
-#EXTINF:-1 tvg-id="" tvg-name="COM Brazil TV (720p)" tvg-logo="" group-title="BRASIL",COM Brazil TV (720p)
-http://15.235.144.67:35461/654321/123456/7525
-#EXTINF:-1 tvg-id="" tvg-name="TV Birigui" tvg-logo="" group-title="BRASIL",TV Birigui
-http://15.235.144.67:35461/654321/123456/7522
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="" group-title="BRASIL",TV Brasil
-http://15.235.144.67:35461/654321/123456/7521
-#EXTINF:-1 tvg-id="" tvg-name="TV Destak (480p)" tvg-logo="" group-title="BRASIL",TV Destak (480p)
-http://15.235.144.67:35461/654321/123456/7519
-#EXTINF:-1 tvg-id="" tvg-name="TV Diário do Sertão (720p)" tvg-logo="" group-title="BRASIL",TV Diário do Sertão (720p)
-http://15.235.144.67:35461/654321/123456/7518
-#EXTINF:-1 tvg-id="" tvg-name="TV Sol (720p)  PT" tvg-logo="" group-title="BRASIL",TV Sol (720p)  PT
-http://15.235.144.67:35461/654321/123456/7514
-#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Campos" tvg-logo="" group-title="BRASIL",TV Verdes Campos
-http://15.235.144.67:35461/654321/123456/7513
-#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="" group-title="BRASIL",TVE
-http://15.235.144.67:35461/654321/123456/7510
-#EXTINF:-1 tvg-id="" tvg-name="PUC TV Goiás (180p)" tvg-logo="" group-title="BRASIL",PUC TV Goiás (180p)
-http://15.235.144.67:35461/654321/123456/7505
-#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil de Comunicação (540p) [Not 24/7]" tvg-logo="" group-title="BRASIL",Rede Brasil de Comunicação (540p) [Not 24/7]
-http://15.235.144.67:35461/654321/123456/7503
-#EXTINF:-1 tvg-id="" tvg-name="RedeTV! Tocantins (720p)" tvg-logo="" group-title="BRASIL",RedeTV! Tocantins (720p)
-http://15.235.144.67:35461/654321/123456/7500
-#EXTINF:-1 tvg-id="" tvg-name="Rádio MegaSom" tvg-logo="" group-title="BRASIL",Rádio MegaSom
-http://15.235.144.67:35461/654321/123456/7499
-#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida" tvg-logo="" group-title="BRASIL",TV Aparecida
-http://15.235.144.67:35461/654321/123456/7498
-#EXTINF:-1 tvg-id="" tvg-name="TV Santa Cecília (SP) (288p)" tvg-logo="" group-title="BRASIL",TV Santa Cecília (SP) (288p)
-http://15.235.144.67:35461/654321/123456/7492
-#EXTINF:-1 tvg-id="" tvg-name="Porto Canal (360p)" tvg-logo="" group-title="BRASIL",Porto Canal (360p)
-http://15.235.144.67:35461/654321/123456/7489
-#EXTINF:-1 tvg-id="" tvg-name="Santa Cecilia TV (288p)" tvg-logo="" group-title="BRASIL",Santa Cecilia TV (288p)
-http://15.235.144.67:35461/654321/123456/7488
-#EXTINF:-1 tvg-id="" tvg-name="Sexy Kpop TV (720p)" tvg-logo="" group-title="BRASIL",Sexy Kpop TV (720p)
-http://15.235.144.67:35461/654321/123456/7486
-#EXTINF:-1 tvg-id="" tvg-name="TELE CINE ACTION (390p)" tvg-logo="" group-title="BRASIL",TELE CINE ACTION (390p)
-http://15.235.144.67:35461/654321/123456/7485
-#EXTINF:-1 tvg-id="" tvg-name="TV Educativa de Porto Alegre (1080p)" tvg-logo="" group-title="BRASIL",TV Educativa de Porto Alegre (1080p)
-http://15.235.144.67:35461/654321/123456/7484
-#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar (480p)" tvg-logo="" group-title="BRASIL",TV Evangelizar (480p)
-http://15.235.144.67:35461/654321/123456/7483
-#EXTINF:-1 tvg-id="" tvg-name="TV Mackenzie (480p)" tvg-logo="" group-title="BRASIL",TV Mackenzie (480p)
-http://15.235.144.67:35461/654321/123456/7482
-#EXTINF:-1 tvg-id="" tvg-name="TV MANA (ENG) (484p)" tvg-logo="" group-title="BRASIL",TV MANA (ENG) (484p)
-http://15.235.144.67:35461/654321/123456/7481
-#EXTINF:-1 tvg-id="" tvg-name="TV Mon (720p)" tvg-logo="" group-title="BRASIL",TV Mon (720p)
-http://15.235.144.67:35461/654321/123456/7471
-#EXTINF:-1 tvg-id="" tvg-name="TV UFG" tvg-logo="" group-title="BRASIL",TV UFG
-http://15.235.144.67:35461/654321/123456/7469
-#EXTINF:-1 tvg-id="" tvg-name="TV Camara de Sao Paulo (720p)" tvg-logo="" group-title="BRASIL",TV Camara de Sao Paulo (720p)
-http://15.235.144.67:35461/654321/123456/7467
-#EXTINF:-1 tvg-id="" tvg-name="TV CATVE (720p)" tvg-logo="" group-title="BRASIL",TV CATVE (720p)
-http://15.235.144.67:35461/654321/123456/7465
-#EXTINF:-1 tvg-id="" tvg-name="TV Câmara" tvg-logo="" group-title="BRASIL",TV Câmara
-http://15.235.144.67:35461/654321/123456/7464
-#EXTINF:-1 tvg-id="" tvg-name="TV Câmara 2" tvg-logo="" group-title="BRASIL",TV Câmara 2
-http://15.235.144.67:35461/654321/123456/7463
-#EXTINF:-1 tvg-id="" tvg-name="TV Cinec (720p)" tvg-logo="" group-title="BRASIL",TV Cinec (720p)
-http://15.235.144.67:35461/654321/123456/7461
-#EXTINF:-1 tvg-id="" tvg-name="TV COM BRASIL" tvg-logo="" group-title="BRASIL",TV COM BRASIL
-http://15.235.144.67:35461/654321/123456/7460
-#EXTINF:-1 tvg-id="" tvg-name="TV Paraná Turismo [Not 24/7]" tvg-logo="" group-title="BRASIL",TV Paraná Turismo [Not 24/7]
-http://15.235.144.67:35461/654321/123456/7457
-#EXTINF:-1 tvg-id="" tvg-name="TV Pombal HD" tvg-logo="" group-title="BRASIL",TV Pombal HD
-http://15.235.144.67:35461/654321/123456/7456
-#EXTINF:-1 tvg-id="" tvg-name="TV Poços (192p)" tvg-logo="" group-title="BRASIL",TV Poços (192p)
-http://15.235.144.67:35461/654321/123456/7455
+#EXTINF:-1,[BR] A&amp;E FHD
+http://supersonictv.live:8080/899559/316805/84935
+#EXTINF:-1,[BR] Animal Planet FHD
+http://supersonictv.live:8080/899559/316805/84936
+#EXTINF:-1,[BR] Arte 1 FHD
+http://supersonictv.live:8080/899559/316805/84937
+#EXTINF:-1,[BR] AXN FHD
+http://supersonictv.live:8080/899559/316805/84938
+#EXTINF:-1,[BR] Baby FHD
+http://supersonictv.live:8080/899559/316805/84939
+#EXTINF:-1,[BR] Band FHD
+http://supersonictv.live:8080/899559/316805/84940
+#EXTINF:-1,[BR] Band News FHD
+http://supersonictv.live:8080/899559/316805/84941
+#EXTINF:-1,[BR] Band Sports FHD
+http://supersonictv.live:8080/899559/316805/84942
+#EXTINF:-1,[BR] BIS FHD
+http://supersonictv.live:8080/899559/316805/84943
+#EXTINF:-1,[BR] Boomerang FHD
+http://supersonictv.live:8080/899559/316805/84944
+#EXTINF:-1,[BR] Canal Brasil FHD
+http://supersonictv.live:8080/899559/316805/84945
+#EXTINF:-1,[BR] Cartoon Network FHD
+http://supersonictv.live:8080/899559/316805/84946
+#EXTINF:-1,[BR] Chef TV FHD
+http://supersonictv.live:8080/899559/316805/84947
+#EXTINF:-1,[BR] Cinemax FHD
+http://supersonictv.live:8080/899559/316805/84948
+#EXTINF:-1,[BR] Cinemax HD
+http://supersonictv.live:8080/899559/316805/84949
+#EXTINF:-1,[BR] CNN Brasil FHD
+http://supersonictv.live:8080/899559/316805/84950
+#EXTINF:-1,[BR] CNN Espanhol HD
+http://supersonictv.live:8080/899559/316805/84951
+#EXTINF:-1,[BR] CNN Internacional FHD
+http://supersonictv.live:8080/899559/316805/84952
+#EXTINF:-1,[BR] Combate FHD
+http://supersonictv.live:8080/899559/316805/84953
+#EXTINF:-1,[BR] Comedy Central FHD
+http://supersonictv.live:8080/899559/316805/84954
+#EXTINF:-1,[BR] COPA CATARINENSE *
+http://supersonictv.live:8080/899559/316805/84955
+#EXTINF:-1,[BR] COPA CATARINENSE 2 *
+http://supersonictv.live:8080/899559/316805/84956
+#EXTINF:-1,[BR] COPA CATARINENSE 2 HD *
+http://supersonictv.live:8080/899559/316805/84957
+#EXTINF:-1,[BR] COPA CATARINENSE HD *
+http://supersonictv.live:8080/899559/316805/84958
+#EXTINF:-1,[BR] COPA DO NORDESTE *
+http://supersonictv.live:8080/899559/316805/84959
+#EXTINF:-1,[BR] COPA DO NORDESTE 2 *
+http://supersonictv.live:8080/899559/316805/84960
+#EXTINF:-1,[BR] COPA DO NORDESTE 2 HD *
+http://supersonictv.live:8080/899559/316805/84961
+#EXTINF:-1,[BR] COPA DO NORDESTE HD *
+http://supersonictv.live:8080/899559/316805/84962
+#EXTINF:-1,[BR] Curta! FHD
+http://supersonictv.live:8080/899559/316805/84963
+#EXTINF:-1,[BR] Discovery Channel FHD
+http://supersonictv.live:8080/899559/316805/84966
+#EXTINF:-1,[BR] Discovery Home &amp; Health FHD
+http://supersonictv.live:8080/899559/316805/84967
+#EXTINF:-1,[BR] Discovery ID FHD
+http://supersonictv.live:8080/899559/316805/84968
+#EXTINF:-1,[BR] Discovery Kids FHD
+http://supersonictv.live:8080/899559/316805/84969
+#EXTINF:-1,[BR] Discovery Science FHD
+http://supersonictv.live:8080/899559/316805/84970
+#EXTINF:-1,[BR] Discovery Theather FHD
+http://supersonictv.live:8080/899559/316805/84971
+#EXTINF:-1,[BR] Discovery Turbo FHD
+http://supersonictv.live:8080/899559/316805/84972
+#EXTINF:-1,[BR] Discovery World FHD
+http://supersonictv.live:8080/899559/316805/84973
+#EXTINF:-1,[BR] Disney Channel FHD
+http://supersonictv.live:8080/899559/316805/84974
+#EXTINF:-1,[BR] Disney JR FHD
+http://supersonictv.live:8080/899559/316805/84975
+#EXTINF:-1,[BR] Disney XD FHD
+http://supersonictv.live:8080/899559/316805/84976
+#EXTINF:-1,[BR] E! FHD
+http://supersonictv.live:8080/899559/316805/84977
+#EXTINF:-1,[BR] ESPN 2 FHD
+http://supersonictv.live:8080/899559/316805/84978
+#EXTINF:-1,[BR] ESPN Brasil FHD
+http://supersonictv.live:8080/899559/316805/84979
+#EXTINF:-1,[BR] ESPN Extra FHD
+http://supersonictv.live:8080/899559/316805/84980
+#EXTINF:-1,[BR] ESPN FHD
+http://supersonictv.live:8080/899559/316805/84981
+#EXTINF:-1,[BR] ESPORTE INTERATIVO *
+http://supersonictv.live:8080/899559/316805/84982
+#EXTINF:-1,[BR] Fish TV FHD
+http://supersonictv.live:8080/899559/316805/84983
+#EXTINF:-1,[BR] FlaTV TESTE
+http://supersonictv.live:8080/899559/316805/84984
+#EXTINF:-1,[BR] Food Network FHD
+http://supersonictv.live:8080/899559/316805/84985
+#EXTINF:-1,[BR] FOX FHD
+http://supersonictv.live:8080/899559/316805/84986
+#EXTINF:-1,[BR] Fox Life FHD
+http://supersonictv.live:8080/899559/316805/84987
+#EXTINF:-1,[BR] Fox News FHD
+http://supersonictv.live:8080/899559/316805/84988
+#EXTINF:-1,[BR] Fox Premium 1 FHD
+http://supersonictv.live:8080/899559/316805/84989
+#EXTINF:-1,[BR] Fox Premium 2 FHD
+http://supersonictv.live:8080/899559/316805/84990
+#EXTINF:-1,[BR] Fox Sport HD
+http://supersonictv.live:8080/899559/316805/84991
+#EXTINF:-1,[BR] Fox Sports 2 FHD
+http://supersonictv.live:8080/899559/316805/84992
+#EXTINF:-1,[BR] Fox Sports FHD
+http://supersonictv.live:8080/899559/316805/84993
+#EXTINF:-1,[BR] Fox Sports SD
+http://supersonictv.live:8080/899559/316805/84994
+#EXTINF:-1,[BR] FX FHD
+http://supersonictv.live:8080/899559/316805/84995
+#EXTINF:-1,[BR] Globo TV Brasilia HD
+http://supersonictv.live:8080/899559/316805/84996
+#EXTINF:-1,[BR] Globo Centro America FHD
+http://supersonictv.live:8080/899559/316805/84997
+#EXTINF:-1,[BR] Globo EPTV Campinas FHD
+http://supersonictv.live:8080/899559/316805/84998
+#EXTINF:-1,[BR] GLOBO EPTV CAMPINAS SD#
+http://supersonictv.live:8080/899559/316805/84999
+#EXTINF:-1,[BR] GLOBO EPTV RIBEIRÃƒO PRETO SD#
+http://supersonictv.live:8080/899559/316805/85000
+#EXTINF:-1,[BR] Globo EPTV Sul de Minas FHD
+http://supersonictv.live:8080/899559/316805/85001
+#EXTINF:-1,[BR] GLOBO INTER TV CABUGI SD#
+http://supersonictv.live:8080/899559/316805/85002
+#EXTINF:-1,[BR] Globo Inter TV Grande Minas FHD
+http://supersonictv.live:8080/899559/316805/85003
+#EXTINF:-1,[BR] Globo Minas FHD
+http://supersonictv.live:8080/899559/316805/85004
+#EXTINF:-1,[BR] Globo News FHD
+http://supersonictv.live:8080/899559/316805/85005
+#EXTINF:-1,[BR] Globo Nordeste FHD
+http://supersonictv.live:8080/899559/316805/85006
+#EXTINF:-1,[BR] Globo NSC Florianopolis FHD
+http://supersonictv.live:8080/899559/316805/85007
+#EXTINF:-1,[BR] GLOBO RBS PORTO ALEGRE SD#
+http://supersonictv.live:8080/899559/316805/85008
+#EXTINF:-1,[BR] GLOBO RBS TV POA FHD
+http://supersonictv.live:8080/899559/316805/85009
+#EXTINF:-1,[BR] GLOBO REDE AMAZÃ”NICA MANAUS SD#
+http://supersonictv.live:8080/899559/316805/85010
+#EXTINF:-1,[BR] GLOBO RIO HD#
+http://supersonictv.live:8080/899559/316805/85011
+#EXTINF:-1,[BR] Globo RJ FHD
+http://supersonictv.live:8080/899559/316805/85012
+#EXTINF:-1,[BR] Globo RPC Curitiba FHD
+http://supersonictv.live:8080/899559/316805/85013
+#EXTINF:-1,[BR] Globo RPC Foz do Iguaçu FHD
+http://supersonictv.live:8080/899559/316805/85014
+#EXTINF:-1,[BR] GLOBO SP FHD
+http://supersonictv.live:8080/899559/316805/85015
+#EXTINF:-1,[BR] Globo TV Anhanguera  SD
+http://supersonictv.live:8080/899559/316805/85016
+#EXTINF:-1,[BR] GLOBO TV ANHANGUERA GOIÃ‚NIA SD#
+http://supersonictv.live:8080/899559/316805/85017
+#EXTINF:-1,[BR] Globo TV Bahia FHD
+http://supersonictv.live:8080/899559/316805/85018
+#EXTINF:-1,[BR] Globo TV Belem FHD
+http://supersonictv.live:8080/899559/316805/85019
+#EXTINF:-1,[BR] Globo TV Brasilia FHD
+http://supersonictv.live:8080/899559/316805/85020
+#EXTINF:-1,[BR] GLOBO TV LIBERAL BELEM SD#
+http://supersonictv.live:8080/899559/316805/85021
+#EXTINF:-1,[BR] Globo TV Mirante FHD
+http://supersonictv.live:8080/899559/316805/85022
+#EXTINF:-1,[BR] Globo TV Morena FHD
+http://supersonictv.live:8080/899559/316805/85023
+#EXTINF:-1,[BR] GLOBO TV TEM BAURU SD#
+http://supersonictv.live:8080/899559/316805/85024
+#EXTINF:-1,[BR] GLOBO TV TEM SOROCABA SD#
+http://supersonictv.live:8080/899559/316805/85025
+#EXTINF:-1,[BR] GLOBO TV TRIBUNA SANTOS SD#
+http://supersonictv.live:8080/899559/316805/85026
+#EXTINF:-1,[BR] GLOBO TV VANGUARDA SÃƒO JOSÃ‰ DOS CAMPOS SD#
+http://supersonictv.live:8080/899559/316805/85027
+#EXTINF:-1,[BR] Globo TV Verdes Mares FHD
+http://supersonictv.live:8080/899559/316805/85028
+#EXTINF:-1,[BR] GloboTV Anhanguera FHD
+http://supersonictv.live:8080/899559/316805/85029
+#EXTINF:-1,[BR] Gloob FHD
+http://supersonictv.live:8080/899559/316805/85030
+#EXTINF:-1,[BR] Gloobinho FHD
+http://supersonictv.live:8080/899559/316805/85031
+#EXTINF:-1,[BR] GNT FHD
+http://supersonictv.live:8080/899559/316805/85032
+#EXTINF:-1,[BR] H2 FHD
+http://supersonictv.live:8080/899559/316805/85033
+#EXTINF:-1,[BR] HBO 2 FHD
+http://supersonictv.live:8080/899559/316805/85034
+#EXTINF:-1,[BR] HBO Family FHD
+http://supersonictv.live:8080/899559/316805/85035
+#EXTINF:-1,[BR] HBO FHD
+http://supersonictv.live:8080/899559/316805/85036
+#EXTINF:-1,[BR] HBO Mundi FHD
+http://supersonictv.live:8080/899559/316805/85037
+#EXTINF:-1,[BR] HBO Plus FHD
+http://supersonictv.live:8080/899559/316805/85038
+#EXTINF:-1,[BR] HBO Pop FHD
+http://supersonictv.live:8080/899559/316805/85039
+#EXTINF:-1,[BR] HBO Signature FHD
+http://supersonictv.live:8080/899559/316805/85040
+#EXTINF:-1,[BR] HBO Xtreme FHD
+http://supersonictv.live:8080/899559/316805/85041
+#EXTINF:-1,[BR] HGTV FHD
+http://supersonictv.live:8080/899559/316805/85042
+#EXTINF:-1,[BR] i SAT FHD
+http://supersonictv.live:8080/899559/316805/85043
+#EXTINF:-1,[BR] Inter TV dos Vales FHD
+http://supersonictv.live:8080/899559/316805/85044
+#EXTINF:-1,[BR] Lifetime FHD
+http://supersonictv.live:8080/899559/316805/85045
+#EXTINF:-1,[BR] Mais Globosat FHD
+http://supersonictv.live:8080/899559/316805/85046
+#EXTINF:-1,[BR] Megapix FHD
+http://supersonictv.live:8080/899559/316805/85047
+#EXTINF:-1,[BR] MTV FHD
+http://supersonictv.live:8080/899559/316805/85048
+#EXTINF:-1,[BR] MTV HD
+http://supersonictv.live:8080/899559/316805/85049
+#EXTINF:-1,[BR] Multishow FHD
+http://supersonictv.live:8080/899559/316805/85050
+#EXTINF:-1,[BR] Music Box Brasil FHD
+http://supersonictv.live:8080/899559/316805/85051
+#EXTINF:-1,[BR] Natgeo FHD
+http://supersonictv.live:8080/899559/316805/85052
+#EXTINF:-1,[BR] Natgeo Kids FHD
+http://supersonictv.live:8080/899559/316805/85053
+#EXTINF:-1,[BR] Natgeo Wild FHD
+http://supersonictv.live:8080/899559/316805/85054
+#EXTINF:-1,[BR] Nick FHD
+http://supersonictv.live:8080/899559/316805/85055
+#EXTINF:-1,[BR] Nick JR FHD
+http://supersonictv.live:8080/899559/316805/85056
+#EXTINF:-1,[BR] NSC TV Blumenau FHD
+http://supersonictv.live:8080/899559/316805/85057
+#EXTINF:-1,[BR] OFF FHD
+http://supersonictv.live:8080/899559/316805/85058
+#EXTINF:-1,[BR] Paramount Channel FHD
+http://supersonictv.live:8080/899559/316805/85059
+#EXTINF:-1,[BR] Play Kids HD
+http://supersonictv.live:8080/899559/316805/85060
+#EXTINF:-1,[BR] Play TV FHD
+http://supersonictv.live:8080/899559/316805/85061
+#EXTINF:-1,[BR] Premiere 2 FHD
+http://supersonictv.live:8080/899559/316805/85062
+#EXTINF:-1,[BR] Premiere 3 FHD
+http://supersonictv.live:8080/899559/316805/85063
+#EXTINF:-1,[BR] Premiere 4 FHD
+http://supersonictv.live:8080/899559/316805/85064
+#EXTINF:-1,[BR] Premiere 5 FHD
+http://supersonictv.live:8080/899559/316805/85065
+#EXTINF:-1,[BR] Premiere 6 FHD
+http://supersonictv.live:8080/899559/316805/85066
+#EXTINF:-1,[BR] Premiere 7 FHD
+http://supersonictv.live:8080/899559/316805/85067
+#EXTINF:-1,[BR] Premiere Clubes FHD
+http://supersonictv.live:8080/899559/316805/85068
+#EXTINF:-1,[BR] Prime Box Brasil FHD
+http://supersonictv.live:8080/899559/316805/85069
+#EXTINF:-1,[BR] Record BA HD
+http://supersonictv.live:8080/899559/316805/85070
+#EXTINF:-1,[BR] RECORD BELEM*
+http://supersonictv.live:8080/899559/316805/85071
+#EXTINF:-1,[BR] Record BH HD
+http://supersonictv.live:8080/899559/316805/85072
+#EXTINF:-1,[BR] Record DF HD
+http://supersonictv.live:8080/899559/316805/85073
+#EXTINF:-1,[BR] Record ES HD
+http://supersonictv.live:8080/899559/316805/85074
+#EXTINF:-1,[BR] Record FHD
+http://supersonictv.live:8080/899559/316805/85075
+#EXTINF:-1,[BR] Record GO HD
+http://supersonictv.live:8080/899559/316805/85076
+#EXTINF:-1,[BR] Record HD
+http://supersonictv.live:8080/899559/316805/85077
+#EXTINF:-1,[BR] RECORD MINAS HD*
+http://supersonictv.live:8080/899559/316805/85078
+#EXTINF:-1,[BR] Record News FHD
+http://supersonictv.live:8080/899559/316805/85079
+#EXTINF:-1,[BR] Record PA HD
+http://supersonictv.live:8080/899559/316805/85080
+#EXTINF:-1,[BR] Record RJ HD
+http://supersonictv.live:8080/899559/316805/85081
+#EXTINF:-1,[BR] Record RS HD
+http://supersonictv.live:8080/899559/316805/85082
+#EXTINF:-1,[BR] RECORD RS*
+http://supersonictv.live:8080/899559/316805/85083
+#EXTINF:-1,[BR] Record SP HD
+http://supersonictv.live:8080/899559/316805/85084
+#EXTINF:-1,[BR] RECORD*
+http://supersonictv.live:8080/899559/316805/85085
+#EXTINF:-1,[BR] Rede Genisis FHD
+http://supersonictv.live:8080/899559/316805/85086
+#EXTINF:-1,[BR] Rede Super FHD
+http://supersonictv.live:8080/899559/316805/85087
+#EXTINF:-1,[BR] Rede TV FHD
+http://supersonictv.live:8080/899559/316805/85088
+#EXTINF:-1,[BR] SBT FHD
+http://supersonictv.live:8080/899559/316805/85089
+#EXTINF:-1,[BR] Shoptime FHD
+http://supersonictv.live:8080/899559/316805/85090
+#EXTINF:-1,[BR] Sony FHD
+http://supersonictv.live:8080/899559/316805/85091
+#EXTINF:-1,[BR] Space FHD
+http://supersonictv.live:8080/899559/316805/85092
+#EXTINF:-1,[BR] SporTV 2 FHD
+http://supersonictv.live:8080/899559/316805/85093
+#EXTINF:-1,[BR] SporTV 3 FHD
+http://supersonictv.live:8080/899559/316805/85094
+#EXTINF:-1,[BR] SporTV FHD
+http://supersonictv.live:8080/899559/316805/85095
+#EXTINF:-1,[BR] Studio Universal FHD
+http://supersonictv.live:8080/899559/316805/85096
+#EXTINF:-1,[BR] SYFY FHD
+http://supersonictv.live:8080/899559/316805/85097
+#EXTINF:-1,[BR] TBS FHD
+http://supersonictv.live:8080/899559/316805/85098
+#EXTINF:-1,[BR] TC ACTION FHD
+http://supersonictv.live:8080/899559/316805/85099
+#EXTINF:-1,[BR] TC Cult FHD
+http://supersonictv.live:8080/899559/316805/85100
+#EXTINF:-1,[BR] TC Fun FHD
+http://supersonictv.live:8080/899559/316805/85101
+#EXTINF:-1,[BR] TC Pipoca FHD
+http://supersonictv.live:8080/899559/316805/85102
+#EXTINF:-1,[BR] TC Premium FHD
+http://supersonictv.live:8080/899559/316805/85103
+#EXTINF:-1,[BR] TC Touch FHD
+http://supersonictv.live:8080/899559/316805/85104
+#EXTINF:-1,[BR] TCM FHD
+http://supersonictv.live:8080/899559/316805/85105
+#EXTINF:-1,[BR] The History FHD
+http://supersonictv.live:8080/899559/316805/85106
+#EXTINF:-1,[BR] TLC FHD
+http://supersonictv.live:8080/899559/316805/85107
+#EXTINF:-1,[BR] TNT FHD
+http://supersonictv.live:8080/899559/316805/85108
+#EXTINF:-1,[BR] TNT Series FHD
+http://supersonictv.live:8080/899559/316805/85109
+#EXTINF:-1,[BR] Tooncast FHD
+http://supersonictv.live:8080/899559/316805/85110
+#EXTINF:-1,[BR] Tru TV FHD
+http://supersonictv.live:8080/899559/316805/85111
+#EXTINF:-1,[BR] Tv Diario FHD
+http://supersonictv.live:8080/899559/316805/85112
+#EXTINF:-1,[BR] TV Gazeta Alagoas FHD
+http://supersonictv.live:8080/899559/316805/85113
+#EXTINF:-1,[BR] TV Gazeta FHD
+http://supersonictv.live:8080/899559/316805/85114
+#EXTINF:-1,[BR] TV Ra Tim Bum FHD
+http://supersonictv.live:8080/899559/316805/85115
+#EXTINF:-1,[BR] TV Santa Cruz FHD
+http://supersonictv.live:8080/899559/316805/85116
+#EXTINF:-1,[BR] TV Sergipe FHD
+http://supersonictv.live:8080/899559/316805/85117
+#EXTINF:-1,[BR] TV5****
+http://supersonictv.live:8080/899559/316805/85118
+#EXTINF:-1,[BR] Universal Channel FHD
+http://supersonictv.live:8080/899559/316805/85119
+#EXTINF:-1,[BR] VH1 Mega Hits FHD
+http://supersonictv.live:8080/899559/316805/85120
+#EXTINF:-1,[BR] Viva FHD
+http://supersonictv.live:8080/899559/316805/85121
+#EXTINF:-1,[BR] Warner Channel FHD
+http://supersonictv.live:8080/899559/316805/85122
+#EXTINF:-1,[BR] Wohoo FHD
+http://supersonictv.live:8080/899559/316805/85123
+#EXTINF:-1,[BR] TV Tem Bauru FHD
+http://supersonictv.live:8080/899559/316805/85124
+#EXTINF:-1,[BR] AMC FHD
+http://supersonictv.live:8080/899559/316805/85125
+#EXTINF:-1,[BR] Conmebol 1 FHD
+http://supersonictv.live:8080/899559/316805/85126
+#EXTINF:-1,[BR] Conmebol 2 FHD
+http://supersonictv.live:8080/899559/316805/85127
+#EXTINF:-1,[BR] Conmebol 3 FHD
+http://supersonictv.live:8080/899559/316805/85128
+#EXTINF:-1,[BR] Conmebol 4 FHD
+http://supersonictv.live:8080/899559/316805/85129
+#EXTINF:-1,[BR] Boa Vontade FHD ²
+http://supersonictv.live:8080/899559/316805/85130
+#EXTINF:-1,[BR] Boa Vontade TV FHD
+http://supersonictv.live:8080/899559/316805/85131
+#EXTINF:-1,[BR] COPA DO NORDESTE 3 HD
+http://supersonictv.live:8080/899559/316805/85142
+#EXTINF:-1,[BR] COPA DO NORDESTE 4 HD
+http://supersonictv.live:8080/899559/316805/85143
+#EXTINF:-1,[BR] COPA DO NORDESTE 5 HD
+http://supersonictv.live:8080/899559/316805/85144
+#EXTINF:-1,[BR] COPA DO NORDESTE 6 HD
+http://supersonictv.live:8080/899559/316805/85145
+#EXTINF:-1,[BR] COPA DO NORDESTE HD
+http://supersonictv.live:8080/899559/316805/85146
+#EXTINF:-1,[BR] Agro+ FHD
+http://supersonictv.live:8080/899559/316805/85147
+#EXTINF:-1,[BR] AgroBrasil TV
+http://supersonictv.live:8080/899559/316805/85148
+#EXTINF:-1,[BR] All Sports HD
+http://supersonictv.live:8080/899559/316805/85149
+#EXTINF:-1,[BR] AllTV HD
+http://supersonictv.live:8080/899559/316805/85150
+#EXTINF:-1,[BR] Canal 26 Argentina
+http://supersonictv.live:8080/899559/316805/85152
+#EXTINF:-1,[BR] Canal Rural FHD
+http://supersonictv.live:8080/899559/316805/85153
+#EXTINF:-1,[BR] Canale 7 Itália
+http://supersonictv.live:8080/899559/316805/85154
+#EXTINF:-1,[BR] Carioca 2 HD
+http://supersonictv.live:8080/899559/316805/85157
+#EXTINF:-1,[BR] Carioca HD
+http://supersonictv.live:8080/899559/316805/85158
+#EXTINF:-1,[BR] CBN Rio
+http://supersonictv.live:8080/899559/316805/85159
+#EXTINF:-1,[BR] CBN São Paulo
+http://supersonictv.live:8080/899559/316805/85160
+#EXTINF:-1,[BR] Central|Top TV HD
+http://supersonictv.live:8080/899559/316805/85161
+#EXTINF:-1,[BR] CGTN
+http://supersonictv.live:8080/899559/316805/85162
+#EXTINF:-1,[BR] CNT FHD
+http://supersonictv.live:8080/899559/316805/85163
+#EXTINF:-1,[BR] COM Brasil TV FHD
+http://supersonictv.live:8080/899559/316805/85164
+#EXTINF:-1,[BR] COMBATE 4K
+http://supersonictv.live:8080/899559/316805/85165
+#EXTINF:-1,[BR] Conmebol 1 HD
+http://supersonictv.live:8080/899559/316805/85166
+#EXTINF:-1,[BR] Conmebol 2 HD
+http://supersonictv.live:8080/899559/316805/85167
+#EXTINF:-1,[BR] Conmebol 4K
+http://supersonictv.live:8080/899559/316805/85168
+#EXTINF:-1,[BR] Conmebol 5 HD
+http://supersonictv.live:8080/899559/316805/85169
+#EXTINF:-1,[BR] Conmebol 6 HD
+http://supersonictv.live:8080/899559/316805/85170
+#EXTINF:-1,[BR] Dog TV FHD
+http://supersonictv.live:8080/899559/316805/85171
+#EXTINF:-1,[BR] ESPORTE INTERATIVO 5 HD
+http://supersonictv.live:8080/899559/316805/85172
+#EXTINF:-1,[BR] ESPORTE INTERATIVO 6 HD
+http://supersonictv.live:8080/899559/316805/85173
+#EXTINF:-1,[BR] ESPORTE INTERATIVO 7 HD
+http://supersonictv.live:8080/899559/316805/85174
+#EXTINF:-1,[BR] ESPORTE INTERATIVO 8 HD
+http://supersonictv.live:8080/899559/316805/85175
+#EXTINF:-1,[BR] ESPORTE INTERATIVO 9 HD
+http://supersonictv.live:8080/899559/316805/85176
+#EXTINF:-1,[BR] ESPORTE INTERATIVO 10 HD
+http://supersonictv.live:8080/899559/316805/85177
+#EXTINF:-1,[BR] ESPN Brasil 4K
+http://supersonictv.live:8080/899559/316805/85178
+#EXTINF:-1,[BR] FLA TV+ FHD
+http://supersonictv.live:8080/899559/316805/85179
+#EXTINF:-1,[BR] FLA TV+ HD
+http://supersonictv.live:8080/899559/316805/85180
+#EXTINF:-1,[BR] FOX SPORTS 2 4K
+http://supersonictv.live:8080/899559/316805/85181
+#EXTINF:-1,[BR] Fox Sports 4K
+http://supersonictv.live:8080/899559/316805/85182
+#EXTINF:-1,[BR] GLOBO 4K
+http://supersonictv.live:8080/899559/316805/85183
+#EXTINF:-1,[BR] Globo EPTV Ribeirão Preto
+http://supersonictv.live:8080/899559/316805/85184
+#EXTINF:-1,[BR] Globo Inter Cabugi HD
+http://supersonictv.live:8080/899559/316805/85185
+#EXTINF:-1,[BR] Globo Inter PT FHD
+http://supersonictv.live:8080/899559/316805/85186
+#EXTINF:-1,[BR] Globo Inter PT HD
+http://supersonictv.live:8080/899559/316805/85187
+#EXTINF:-1,[BR] Globo Inter TV Alto Litoral FHD
+http://supersonictv.live:8080/899559/316805/85188
+#EXTINF:-1,[BR] Globo Inter TV Cabugi FHD
+http://supersonictv.live:8080/899559/316805/85189
+#EXTINF:-1,[BR] Globo NSC Centro Oeste FHD
+http://supersonictv.live:8080/899559/316805/85190
+#EXTINF:-1,[BR] Globo NSC TV Chapeco FHD
+http://supersonictv.live:8080/899559/316805/85191
+#EXTINF:-1,[BR] Globo NSC TV Criciuma FHD
+http://supersonictv.live:8080/899559/316805/85192
+#EXTINF:-1,[BR] Globo NSC TV Joinville FHD
+http://supersonictv.live:8080/899559/316805/85193
+#EXTINF:-1,[BR] Globo RBS TV 4K
+http://supersonictv.live:8080/899559/316805/85194
+#EXTINF:-1,[BR] Globo RBS TV Caxias do Sul FHD
+http://supersonictv.live:8080/899559/316805/85195
+#EXTINF:-1,[BR] Globo RBS TV Pelotas FHD
+http://supersonictv.live:8080/899559/316805/85196
+#EXTINF:-1,[BR] Globo RBS TV Santa Maria FHD
+http://supersonictv.live:8080/899559/316805/85197
+#EXTINF:-1,[BR] Globo Rede Amazonica FHD
+http://supersonictv.live:8080/899559/316805/85198
+#EXTINF:-1,[BR] Globo RPC Maringa FHD
+http://supersonictv.live:8080/899559/316805/85199
+#EXTINF:-1,[BR] Globo RPC Ponta Grossa FHD
+http://supersonictv.live:8080/899559/316805/85200
+#EXTINF:-1,[BR] Globo TV Asa Branca FHD
+http://supersonictv.live:8080/899559/316805/85201
+#EXTINF:-1,[BR] Globo TV Cabo Branco FHD
+http://supersonictv.live:8080/899559/316805/85202
+#EXTINF:-1,[BR] Globo TV Clube FHD
+http://supersonictv.live:8080/899559/316805/85203
+#EXTINF:-1,[BR] Globo TV Integração JF FHD
+http://supersonictv.live:8080/899559/316805/85204
+#EXTINF:-1,[BR] Globo TV Recife FHD
+http://supersonictv.live:8080/899559/316805/85205
+#EXTINF:-1,[BR] Globo TV Rio Sul FHD
+http://supersonictv.live:8080/899559/316805/85206
+#EXTINF:-1,[BR] Globo TV TEM SJRP
+http://supersonictv.live:8080/899559/316805/85207
+#EXTINF:-1,[BR] Globo TV TEM Sorocaba HD
+http://supersonictv.live:8080/899559/316805/85208
+#EXTINF:-1,[BR] Globo TV Tribuna HD
+http://supersonictv.live:8080/899559/316805/85209
+#EXTINF:-1,[BR] Globo TV Vanguarda SJC
+http://supersonictv.live:8080/899559/316805/85210
+#EXTINF:-1,[BR] HBO 2 DUAL FHD
+http://supersonictv.live:8080/899559/316805/85211
+#EXTINF:-1,[BR] HBO 2 DUAL HD
+http://supersonictv.live:8080/899559/316805/85212
+#EXTINF:-1,[BR] HBO 4K
+http://supersonictv.live:8080/899559/316805/85213
+#EXTINF:-1,[BR] HBO DUAL FHD
+http://supersonictv.live:8080/899559/316805/85214
+#EXTINF:-1,[BR] HBO DUAL HD
+http://supersonictv.live:8080/899559/316805/85215
+#EXTINF:-1,[BR] HBO Family DUAL FHD
+http://supersonictv.live:8080/899559/316805/85216
+#EXTINF:-1,[BR] HBO Family DUAL HD
+http://supersonictv.live:8080/899559/316805/85217
+#EXTINF:-1,[BR] HBO Mundi DUAL FHD
+http://supersonictv.live:8080/899559/316805/85218
+#EXTINF:-1,[BR] HBO Mundi DUAL HD
+http://supersonictv.live:8080/899559/316805/85219
+#EXTINF:-1,[BR] HBO Pop DUAL HD
+http://supersonictv.live:8080/899559/316805/85220
+#EXTINF:-1,[BR] HBO XTREME 4K
+http://supersonictv.live:8080/899559/316805/85221
+#EXTINF:-1,[BR] HBO Xtreme DUAL FHD
+http://supersonictv.live:8080/899559/316805/85222
+#EXTINF:-1,[BR] HBO Xtreme DUAL HD
+http://supersonictv.live:8080/899559/316805/85223
+#EXTINF:-1,[BR] Heavy Metal TV
+http://supersonictv.live:8080/899559/316805/85224
+#EXTINF:-1,[BR] Igreja Mundial FHD
+http://supersonictv.live:8080/899559/316805/85225
+#EXTINF:-1,[BR] Igreja Universal HD
+http://supersonictv.live:8080/899559/316805/85226
+#EXTINF:-1,[BR] ITV HD
+http://supersonictv.live:8080/899559/316805/85227
+#EXTINF:-1,[BR] Jovem Pan News FHD
+http://supersonictv.live:8080/899559/316805/85228
+#EXTINF:-1,[BR] KPOP TV SY HD
+http://supersonictv.live:8080/899559/316805/85229
+#EXTINF:-1,[BR] Loading TV FHD
+http://supersonictv.live:8080/899559/316805/85230
+#EXTINF:-1,[BR] Master TV HD
+http://supersonictv.live:8080/899559/316805/85231
+#EXTINF:-1,[BR] MEGAPIX 4K
+http://supersonictv.live:8080/899559/316805/85232
+#EXTINF:-1,[BR] MULTISHOW 4K
+http://supersonictv.live:8080/899559/316805/85233
+#EXTINF:-1,[BR] Music Top HD
+http://supersonictv.live:8080/899559/316805/85234
+#EXTINF:-1,[BR] NATGEO 4K
+http://supersonictv.live:8080/899559/316805/85235
+#EXTINF:-1,[BR] NHK Japan
+http://supersonictv.live:8080/899559/316805/85236
+#EXTINF:-1,[BR] Polishop FHD
+http://supersonictv.live:8080/899559/316805/85239
+#EXTINF:-1,[BR] PREMIERE CLUBES 4K
+http://supersonictv.live:8080/899559/316805/85240
+#EXTINF:-1,[BR] RBC FHD
+http://supersonictv.live:8080/899559/316805/85241
+#EXTINF:-1,[BR] RBI TV FHD
+http://supersonictv.live:8080/899559/316805/85242
+#EXTINF:-1,[BR] RBT Rede Brasil TV FHD
+http://supersonictv.live:8080/899559/316805/85243
+#EXTINF:-1,[BR] RBT Rede Brasil TV HD
+http://supersonictv.live:8080/899559/316805/85244
+#EXTINF:-1,[BR] RECORD 4K
+http://supersonictv.live:8080/899559/316805/85245
+#EXTINF:-1,[BR] Record Belém HD
+http://supersonictv.live:8080/899559/316805/85246
+#EXTINF:-1,[BR] Record Brasília HD
+http://supersonictv.live:8080/899559/316805/85247
+#EXTINF:-1,[BR] Record Goiás HD
+http://supersonictv.live:8080/899559/316805/85248
+#EXTINF:-1,[BR] Record Itapoan HD
+http://supersonictv.live:8080/899559/316805/85249
+#EXTINF:-1,[BR] Record Manaus HD
+http://supersonictv.live:8080/899559/316805/85250
+#EXTINF:-1,[BR] Record Minas HD
+http://supersonictv.live:8080/899559/316805/85251
+#EXTINF:-1,[BR] Record Rio RJ HD
+http://supersonictv.live:8080/899559/316805/85252
+#EXTINF:-1,[BR] Record RS HD
+http://supersonictv.live:8080/899559/316805/85253
+#EXTINF:-1,[BR] Record SC HD
+http://supersonictv.live:8080/899559/316805/85254
+#EXTINF:-1,[BR] Record SD
+http://supersonictv.live:8080/899559/316805/85255
+#EXTINF:-1,[BR] Record SP HD
+http://supersonictv.live:8080/899559/316805/85256
+#EXTINF:-1,[BR] Redbull TV HD
+http://supersonictv.live:8080/899559/316805/85257
+#EXTINF:-1,[BR] Rede Atividade HD
+http://supersonictv.live:8080/899559/316805/85258
+#EXTINF:-1,[BR] Rede Familia FHD
+http://supersonictv.live:8080/899559/316805/85259
+#EXTINF:-1,[BR] Rede Minas FHD
+http://supersonictv.live:8080/899559/316805/85260
+#EXTINF:-1,[BR] Rede Século 21
+http://supersonictv.live:8080/899559/316805/85261
+#EXTINF:-1,[BR] Rede TV 4K
+http://supersonictv.live:8080/899559/316805/85262
+#EXTINF:-1,[BR] Retro Music
+http://supersonictv.live:8080/899559/316805/85263
+#EXTINF:-1,[BR] RIT TV FHD
+http://supersonictv.live:8080/899559/316805/85264
+#EXTINF:-1,[BR] RIT TV HD
+http://supersonictv.live:8080/899559/316805/85265
+#EXTINF:-1,[BR] Rock TV
+http://supersonictv.live:8080/899559/316805/85266
+#EXTINF:-1,[BR] Santuário de Fátima FHD
+http://supersonictv.live:8080/899559/316805/85267
+#EXTINF:-1,[BR] SBT 4K
+http://supersonictv.live:8080/899559/316805/85268
+#EXTINF:-1,[BR] SBT AM HD
+http://supersonictv.live:8080/899559/316805/85269
+#EXTINF:-1,[BR] SBT BA HD
+http://supersonictv.live:8080/899559/316805/85270
+#EXTINF:-1,[BR] SBT GO HD
+http://supersonictv.live:8080/899559/316805/85271
+#EXTINF:-1,[BR] SBT HD²
+http://supersonictv.live:8080/899559/316805/85272
+#EXTINF:-1,[BR] SBT Int SP FHD
+http://supersonictv.live:8080/899559/316805/85273
+#EXTINF:-1,[BR] SBT MA
+http://supersonictv.live:8080/899559/316805/85274
+#EXTINF:-1,[BR] SBT MT HD
+http://supersonictv.live:8080/899559/316805/85275
+#EXTINF:-1,[BR] SBT PI FHD
+http://supersonictv.live:8080/899559/316805/85276
+#EXTINF:-1,[BR] SBT PR HD
+http://supersonictv.live:8080/899559/316805/85277
+#EXTINF:-1,[BR] SBT RJ FHD
+http://supersonictv.live:8080/899559/316805/85278
+#EXTINF:-1,[BR] SBT RS HD
+http://supersonictv.live:8080/899559/316805/85279
+#EXTINF:-1,[BR] SBT SD²
+http://supersonictv.live:8080/899559/316805/85280
+#EXTINF:-1,[BR] SescTV FHD
+http://supersonictv.live:8080/899559/316805/85281
+#EXTINF:-1,[BR] Space 4K
+http://supersonictv.live:8080/899559/316805/85282
+#EXTINF:-1,[BR] SPORTV 4K
+http://supersonictv.live:8080/899559/316805/85283
+#EXTINF:-1,[BR] STAR CHANNEL 4K
+http://supersonictv.live:8080/899559/316805/85284
+#EXTINF:-1,[BR] Star DUAL HD
+http://supersonictv.live:8080/899559/316805/85285
+#EXTINF:-1,[BR] Studio Universal DUAL HD
+http://supersonictv.live:8080/899559/316805/85286
+#EXTINF:-1,[BR] Summer TV HD
+http://supersonictv.live:8080/899559/316805/85287
+#EXTINF:-1,[BR] Taormina TV HD
+http://supersonictv.live:8080/899559/316805/85288
+#EXTINF:-1,[BR] TC Action DUAL FHD
+http://supersonictv.live:8080/899559/316805/85289
+#EXTINF:-1,[BR] TC Action DUAL HD
+http://supersonictv.live:8080/899559/316805/85290
+#EXTINF:-1,[BR] TC Cult DUAL FHD
+http://supersonictv.live:8080/899559/316805/85291
+#EXTINF:-1,[BR] TC Cult DUAL HD
+http://supersonictv.live:8080/899559/316805/85292
+#EXTINF:-1,[BR] TC Fun DUAL FHD
+http://supersonictv.live:8080/899559/316805/85293
+#EXTINF:-1,[BR] TC Fun DUAL HD
+http://supersonictv.live:8080/899559/316805/85294
+#EXTINF:-1,[BR] TC Pipoca DUAL FHD
+http://supersonictv.live:8080/899559/316805/85295
+#EXTINF:-1,[BR] TC Pipoca DUAL HD
+http://supersonictv.live:8080/899559/316805/85296
+#EXTINF:-1,[BR] TC Premium DUAL FHD
+http://supersonictv.live:8080/899559/316805/85297
+#EXTINF:-1,[BR] TC Premium DUAL HD
+http://supersonictv.live:8080/899559/316805/85298
+#EXTINF:-1,[BR] TC Touch DUAL FHD
+http://supersonictv.live:8080/899559/316805/85299
+#EXTINF:-1,[BR] TC Touch DUAL HD
+http://supersonictv.live:8080/899559/316805/85300
+#EXTINF:-1,[BR] TELECINE PREMIUM 4K
+http://supersonictv.live:8080/899559/316805/85301
+#EXTINF:-1,[BR] Terra Viva FHD
+http://supersonictv.live:8080/899559/316805/85302
+#EXTINF:-1,[BR] Terra Viva HD
+http://supersonictv.live:8080/899559/316805/85303
+#EXTINF:-1,[BR] The KPOP FHD
+http://supersonictv.live:8080/899559/316805/85304
+#EXTINF:-1,[BR] TNT 4K
+http://supersonictv.live:8080/899559/316805/85305
+#EXTINF:-1,[BR] TNT DUAL FHD
+http://supersonictv.live:8080/899559/316805/85306
+#EXTINF:-1,[BR] TNT DUAL HD
+http://supersonictv.live:8080/899559/316805/85307
+#EXTINF:-1,[BR] TNT SÉRIES 4K
+http://supersonictv.live:8080/899559/316805/85308
+#EXTINF:-1,[BR] TNT Series DUAL HD
+http://supersonictv.live:8080/899559/316805/85309
+#EXTINF:-1,[BR] TNT SPORTS 1 HD
+http://supersonictv.live:8080/899559/316805/85310
+#EXTINF:-1,[BR] TNT SPORTS 1 SD
+http://supersonictv.live:8080/899559/316805/85311
+#EXTINF:-1,[BR] TNT SPORTS 2 HD
+http://supersonictv.live:8080/899559/316805/85312
+#EXTINF:-1,[BR] TNT SPORTS 2 SD
+http://supersonictv.live:8080/899559/316805/85313
+#EXTINF:-1,[BR] TNT SPORTS 3 HD
+http://supersonictv.live:8080/899559/316805/85314
+#EXTINF:-1,[BR] TNT SPORTS 3 SD
+http://supersonictv.live:8080/899559/316805/85315
+#EXTINF:-1,[BR] TNT SPORTS 4 HD
+http://supersonictv.live:8080/899559/316805/85316
+#EXTINF:-1,[BR] TNT SPORTS 4 SD
+http://supersonictv.live:8080/899559/316805/85317
+#EXTINF:-1,[BR] TNT SPORTS 5 HD
+http://supersonictv.live:8080/899559/316805/85318
+#EXTINF:-1,[BR] TNT SPORTS 5 SD
+http://supersonictv.live:8080/899559/316805/85319
+#EXTINF:-1,[BR] TNT SPORTS 6 HD
+http://supersonictv.live:8080/899559/316805/85320
+#EXTINF:-1,[BR] TNT SPORTS 6 SD
+http://supersonictv.live:8080/899559/316805/85321
+#EXTINF:-1,[BR] TNT SPORTS 7 HD
+http://supersonictv.live:8080/899559/316805/85322
+#EXTINF:-1,[BR] TNT SPORTS 7 SD
+http://supersonictv.live:8080/899559/316805/85323
+#EXTINF:-1,[BR] TNT SPORTS 8 HD
+http://supersonictv.live:8080/899559/316805/85324
+#EXTINF:-1,[BR] TNT SPORTS 8 SD
+http://supersonictv.live:8080/899559/316805/85325
+#EXTINF:-1,[BR] Travel Box FHD
+http://supersonictv.live:8080/899559/316805/85326
+#EXTINF:-1,[BR] TV Ambiental
+http://supersonictv.live:8080/899559/316805/85327
+#EXTINF:-1,[BR] TV Aparecida FHD
+http://supersonictv.live:8080/899559/316805/85328
+#EXTINF:-1,[BR] TV Brasil 2 FHD
+http://supersonictv.live:8080/899559/316805/85329
+#EXTINF:-1,[BR] TV Brasil FHD
+http://supersonictv.live:8080/899559/316805/85330
+#EXTINF:-1,[BR] TV Camara FHD
+http://supersonictv.live:8080/899559/316805/85331
+#EXTINF:-1,[BR] TV Câmara FHD
+http://supersonictv.live:8080/899559/316805/85332
+#EXTINF:-1,[BR] TV Cultura FHD
+http://supersonictv.live:8080/899559/316805/85333
+#EXTINF:-1,[BR] TV Cultura HD
+http://supersonictv.live:8080/899559/316805/85334
+#EXTINF:-1,[BR] TV das Artes
+http://supersonictv.live:8080/899559/316805/85335
+#EXTINF:-1,[BR] TV Envangelizar
+http://supersonictv.live:8080/899559/316805/85336
+#EXTINF:-1,[BR] TV Escola FHD
+http://supersonictv.live:8080/899559/316805/85337
+#EXTINF:-1,[BR] TV Escola HD
+http://supersonictv.live:8080/899559/316805/85338
+#EXTINF:-1,[BR] TV Gazeta 4K
+http://supersonictv.live:8080/899559/316805/85339
+#EXTINF:-1,[BR] TV Gideoes HD
+http://supersonictv.live:8080/899559/316805/85340
+#EXTINF:-1,[BR] TV Imaculada HD
+http://supersonictv.live:8080/899559/316805/85341
+#EXTINF:-1,[BR] TV Justiça
+http://supersonictv.live:8080/899559/316805/85342
+#EXTINF:-1,[BR] TV Justiça FHD
+http://supersonictv.live:8080/899559/316805/85343
+#EXTINF:-1,[BR] TV Novo Tempo FHD
+http://supersonictv.live:8080/899559/316805/85344
+#EXTINF:-1,[BR] TV Novo Tempo HD
+http://supersonictv.live:8080/899559/316805/85345
+#EXTINF:-1,[BR] TV Pai Eterno FHD
+http://supersonictv.live:8080/899559/316805/85346
+#EXTINF:-1,[BR] TV Pai Eterno HD
+http://supersonictv.live:8080/899559/316805/85347
+#EXTINF:-1,[BR] TV Pampa HD
+http://supersonictv.live:8080/899559/316805/85348
+#EXTINF:-1,[BR] TV Senado HD
+http://supersonictv.live:8080/899559/316805/85349
+#EXTINF:-1,[BR] TV UAI HD
+http://supersonictv.live:8080/899559/316805/85350
+#EXTINF:-1,[BR] TV5 Monde HD
+http://supersonictv.live:8080/899559/316805/85351
+#EXTINF:-1,[BR] TVE FHD
+http://supersonictv.live:8080/899559/316805/85352
+#EXTINF:-1,[BR] TVE RS FHD
+http://supersonictv.live:8080/899559/316805/85353
+#EXTINF:-1,[BR] Universal TV DUAL HD
+http://supersonictv.live:8080/899559/316805/85354
+#EXTINF:-1,[BR] VH1 HD
+http://supersonictv.live:8080/899559/316805/85355
+#EXTINF:-1,[BR] Warner Channel DUAL HD
+http://supersonictv.live:8080/899559/316805/85356
+#EXTINF:-1,[BR] Yeeaah HD
+http://supersonictv.live:8080/899559/316805/85357
+#EXTINF:-1,[BR] Zoom TV HD
+http://supersonictv.live:8080/899559/316805/85358
+#EXTINF:-1,[BR] ZooMoo HD
+http://supersonictv.live:8080/899559/316805/85359
+#EXTINF:-1,[BR] ZooMoo SD
+http://supersonictv.live:8080/899559/316805/85360
+#EXTINF:-1,[BR] 24h Power Couple
+http://supersonictv.live:8080/899559/316805/85361
+#EXTINF:-1,[BR] DJTV HD
+http://supersonictv.live:8080/899559/316805/85362
+#EXTINF:-1,[BR] TV MaisNews|Cultura FHD
+http://supersonictv.live:8080/899559/316805/85363
+#EXTINF:-1,[BR] Life Channel BR FHD
+http://supersonictv.live:8080/899559/316805/85364
+#EXTINF:-1,[BR] TV Carioca HD
+http://supersonictv.live:8080/899559/316805/85365
+#EXTINF:-1,[BR] TV Pampa HD
+http://supersonictv.live:8080/899559/316805/85366
+#EXTINF:-1,[BR] Primer TV HD
+http://supersonictv.live:8080/899559/316805/85367
+#EXTINF:-1,[BR] ChromaTV
+http://supersonictv.live:8080/899559/316805/85368
+#EXTINF:-1,[BR] TV Mon HD
+http://supersonictv.live:8080/899559/316805/85369
+#EXTINF:-1,[BR] Demais TV
+http://supersonictv.live:8080/899559/316805/85370
+#EXTINF:-1,[BR] TV A Plateia HD
+http://supersonictv.live:8080/899559/316805/85371
+#EXTINF:-1,[BR] Vale TV-Play
+http://supersonictv.live:8080/899559/316805/85372
+#EXTINF:-1,[BR] Vale EU TV
+http://supersonictv.live:8080/899559/316805/85373
+#EXTINF:-1,[BR] Urban TV HD
+http://supersonictv.live:8080/899559/316805/85374
+#EXTINF:-1,[BR] TVideosNews HD
+http://supersonictv.live:8080/899559/316805/85375
+#EXTINF:-1,[BR] VRT Channel HD
+http://supersonictv.live:8080/899559/316805/85376
