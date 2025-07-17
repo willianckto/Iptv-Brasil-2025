@@ -40,10 +40,10 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 ## Contas Para o Painel Iptv
 | Qualquer nome   | Login                  | Senha                                 |      Url                               |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|
-| Iptv1  | `2052023680`                    | `mvpQrGT27dkS`                          |  http://lunar.pm:8080         |
-| Iptv2  | `345715`                        |`562156`                                 |  http://saga10.pro:80         |
-| Iptv3  | `Q3sdXWJw8Kxxx22222`            |`pKefJHyVKExxxxxxxxa12`                  |  http://vivofibra.uk:80       |
-| Iptv4  |           |                             |          |
+| Iptv1  | `2052023680`                    |`mvpQrGT27dkS`                         |  http://lunar.pm:8080         |
+| Iptv2  | `345715`                        |`562156`                               |  http://saga10.pro:80         |
+| Iptv3  | `Q3sdXWJw8Kxxx22222`            |`pKefJHyVKExxxxxxxxa12`                |  http://vivofibra.uk:80       |
+| Iptv4  | `345715`                        |`562156`                               |  http://saga10.pro:80         |
 
 #
 
