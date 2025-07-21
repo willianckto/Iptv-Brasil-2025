@@ -41,7 +41,7 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | Qualquer nome   | Login                  | Senha                                 |      Url                               |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|
 | Iptv1  | `ere3444h`                      |`agape`                                |  http://tooontv.com:999       |
-| Iptv2  | `345715`                        |`562156`                               |  http://saga10.pro:80         |
+| Iptv2  | `YKb44BNfjaAg`                  |`Z6GRGPUMT3R4`                         |  http://tvlatino.club:2082         |
 | Iptv3  | `Q3sdXWJw8Kxxx22222`            |`pKefJHyVKExxxxxxxxa12`                |  http://vivofibra.uk:80       |
 | Iptv4  | `345715`                        |`562156`                               |  http://saga10.pro:80         |
 
