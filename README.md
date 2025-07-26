@@ -44,7 +44,7 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | Iptv2  | `YKb44BNfjaAg`                  |`Z6GRGPUMT3R4`                         |  http://tvlatino.club:2082    |
 | Iptv3  | `Q3sdXWJw8Kxxx22222`            |`pKefJHyVKExxxxxxxxa12`                |  http://vivofibra.uk:80       |
 | Iptv4  | `cQnq6G`                        |`652882`                               |  http://cord-cutter.net:8080  |
-
+| Iptv5  | `Tonyp`                         |`yPKEJfH4Nh`                           |  http://5startv.xyz:8080      |
 #
 
 
