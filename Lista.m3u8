@@ -1325,23 +1325,7 @@ http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110278
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110279
 #EXTINF:-1 tvg-id="" tvg-name="Astro EPL 05" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Astro EPL 05
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110280
-#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 1 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Now Premier League 1 [Events Only]
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/117457
-#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 2 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Now Premier League 2 [Events Only]
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/117458
-#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 3 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Now Premier League 3 [Events Only]
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/117459
-#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 4 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Now Premier League 4 [Events Only]
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/117460
-#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 5 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Now Premier League 5 [Events Only]
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/117461
-#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 6 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Now Premier League 6 [Events Only]
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/117462
-#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 7 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Now Premier League 7 [Events Only]
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/117463
-#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 8 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Now Premier League 8 [Events Only]
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/117464
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY Sport 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/5767496731.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: SKY Sport 1 HD
+logo="http://img-cdn.curl.pk:8880/chimg/5767496731.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: SKY Sport 1 HD
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122806
 #EXTINF:-1 tvg-id="" tvg-name="IT: SKY Sport 24 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/74580789431.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: SKY Sport 24 HD
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122807
