@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/a-and-e-br.png",A&E FHD H.265
+#EXTINF:-1 group-title="FILMES E SÉRIES",A&E FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81599
-#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/a-and-e-br.png",A&E
+#EXTINF:-1 group-title="FILMES E SÉRIES",A&E
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13497
-#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/a-and-e-br.png",A&E FHD
+#EXTINF:-1 group-title="FILMES E SÉRIES",A&E FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/23156
-#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/a-and-e-br.png",A&E FHD*
+#EXTINF:-1 group-title="FILMES E SÉRIES",A&E FHD*
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131105
-#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/a-and-e-br.png",A&E HD
+#EXTINF:-1 group-title="FILMES E SÉRIES",A&E HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/23157
-#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/a-and-e-br.png",A&E HD ¹
+#EXTINF:-1 group-title="FILMES E SÉRIES",A&E HD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35224
-#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/a-and-e-br.png",A&E HD ²
+#EXTINF:-1 group-title="FILMES E SÉRIES",A&E HD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35225
-#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/axn-br.png",AXN FHD H.265
+#EXTINF:-1 group-title="FILMES E SÉRIES",AXN FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81600
-#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/axn-br.png",AXN
+#EXTINF:-1 group-title="FILMES E SÉRIES",AXN
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13500
-#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/axn-br.png",AXN FHD
+#EXTINF:-1 group-title="FILMES E SÉRIES",AXN FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/23691
-#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/axn-br.png",AXN FHD*
+#EXTINF:-1 group-title="FILMES E SÉRIES",AXN FHD*
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131106
-#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/axn-br.png",AXN HD
+#EXTINF:-1 group-title="FILMES E SÉRIES",AXN HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/23692
-#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/axn-br.png",AXN HD ¹
+#EXTINF:-1 group-title="FILMES E SÉRIES",AXN HD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35228
-#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/axn-br.png",AXN HD ²
+#EXTINF:-1 group-title="FILMES E SÉRIES",AXN HD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35229
 #EXTINF:-1 group-title="FILMES E SÉRIES",AMC FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81601
@@ -59,27 +59,27 @@ http://saga10.pro:80/345715/562156/1263391
 http://saga10.pro:80/345715/562156/1263390
 #EXTINF:-1 group-title="VARIEDADES",GNT SD
 http://saga10.pro:80/345715/562156/1263389
-#EXTINF:-1 group-title="BAND" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/band-br.png",BAND SP FHD  H.265
+#EXTINF:-1 group-title="BAND",BAND SP FHD  H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/107926
-#EXTINF:-1 group-title="BAND" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/band-br.png",BAND SP FHD
+#EXTINF:-1 group-title="BAND",BAND SP FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/20525
-#EXTINF:-1 group-title="BAND" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/band-br.png",BAND SP FHD ¹
+#EXTINF:-1 group-title="BAND",BAND SP FHD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/43031
-#EXTINF:-1 group-title="BAND" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/band-br.png",BAND SP FHD ²
+#EXTINF:-1 group-title="BAND",BAND SP FHD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8659
-#EXTINF:-1 group-title="BAND" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/band-br.png",BAND SP HD
+#EXTINF:-1 group-title="BAND",BAND SP HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8660
-#EXTINF:-1 group-title="BAND" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/band-br.png",BAND SP HD ¹
+#EXTINF:-1 group-title="BAND",BAND SP HD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31029
-#EXTINF:-1 group-title="BAND" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/band-br.png",BAND RJ
+#EXTINF:-1 group-title="BAND",BAND RJ
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/20524
-#EXTINF:-1 group-title="BAND" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/band-br.png",BAND RJ HD
+#EXTINF:-1 group-title="BAND",BAND RJ HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/11724
-#EXTINF:-1 group-title="BAND" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/band-br.png",BAND BAHIA HD
+#EXTINF:-1 group-title="BAND",BAND BAHIA HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91918
-#EXTINF:-1 group-title="BAND" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/band-br.png",BAND CAMPINAS HD
+#EXTINF:-1 group-title="BAND",BAND CAMPINAS HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/20522
-#EXTINF:-1 group-title="BAND" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/band-br.png",BAND RS HD
+#EXTINF:-1 group-title="BAND",BAND RS HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/72575
 #EXTINF:-1 group-title="BAND",BAND SPORTS FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81585
@@ -573,115 +573,115 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9008
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35240
 #EXTINF:-1 group-title="FILMES E SÉRIES",PARAMOUNT CHANNEL HD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35241
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE CLUBES FHD H.265
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/125438
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE CLUBES FHD
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9037
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE CLUBES FHD ¹
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES FHD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30043
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE CLUBES FHD ²
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES FHD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/54902
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE CLUBES HD
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/94194
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE CLUBES HD ¹
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES HD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91393
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE CLUBES HD ²
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES HD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/54903
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE CLUBES
+#EXTINF:-1 group-title="PREMIERE",PREMIERE CLUBES
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13583
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 2 FHD H.265
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81582
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 2 FHD
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9022
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 2 FHD ¹
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 FHD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13576
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 2 FHD ²
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 FHD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69097
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 2 HD
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69028
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 2 HD ¹
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 HD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69029
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 2 HD ²
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 HD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9021
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 2 HD ³
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 2 HD ³
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108294
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 3 FHD H.265
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81583
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 3 FHD
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13577
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 3 FHD ¹
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 FHD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69030
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 3 FHD ² 
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 FHD ² 
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30050
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 3 HD
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69031
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 3 HD ¹
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 HD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30051
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 3 HD ²
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 HD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9026
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 3 HD ³
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 HD ³
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/24152
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 3 HD.
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 3 HD.
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9024
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 4 FHD H.265
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 4 FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81616
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 4 FHD
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 4 FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108295
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 4 FHD ¹
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 4 FHD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108296
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 4 FHD ²
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 4 FHD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108299
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 4 HD
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 4 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108297
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 4 HD ¹
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 4 HD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108298
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 4 HD ²
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 4 HD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108300
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 5 FHD H.265
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 5 FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/82751
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 5 FHD
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 5 FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108301
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 5 FHD ¹
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 5 FHD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108302
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 5 FHD ²
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 5 FHD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108305
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 5 HD
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 5 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108303
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 5 HD ¹
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 5 HD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108304
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 5 HD ²
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 5 HD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108306
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 6 FHD H.265
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 6 FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/82753
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 6 FHD
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 6 FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108307
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 6 FHD ¹
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 6 FHD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108308
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 6 HD 
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 6 HD 
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108309
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 6 HD ¹
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 6 HD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108310
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 6 FHD ²
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 6 FHD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108311
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 6 HD ²
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 6 HD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108312
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 7 FHD 
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 7 FHD 
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108313
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 7 FHD ¹
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 7 FHD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108314
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 7 FHD ²
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 7 FHD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108317
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 7 HD 
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 7 HD 
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108315
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 7 HD ¹
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 7 HD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108316
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 7 HD ²
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 7 HD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108318
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 8 FHD
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 8 FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13582
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 8 FHD MOSAICO
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 8 FHD MOSAICO
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30063
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/premiere-br.png",PREMIERE 8 HD
+#EXTINF:-1 group-title="PREMIERE",PREMIERE 8 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9036
 #EXTINF:-1 group-title="SBT",SBT FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9082
