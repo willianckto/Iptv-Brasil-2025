@@ -185,14 +185,6 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13073
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13075
 #EXTINF:-1 group-title="CINE SKY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png",CINE SKY 1
 http://saga10.pro:80/345715/562156/3014766
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png",CINE SKY 10
-http://saga10.pro:80/345715/562156/3014775
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png",CINE SKY 11
-http://saga10.pro:80/345715/562156/2151034
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png",CINE SKY 12
-http://saga10.pro:80/345715/562156/2151033
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png",CINE SKY 13
-http://saga10.pro:80/345715/562156/2151032
 #EXTINF:-1 group-title="CINE SKY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png",CINE SKY 2
 http://saga10.pro:80/345715/562156/3014767
 #EXTINF:-1 group-title="CINE SKY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png",CINE SKY 3
@@ -209,12 +201,14 @@ http://saga10.pro:80/345715/562156/3014772
 http://saga10.pro:80/345715/562156/3014773
 #EXTINF:-1 group-title="CINE SKY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png",CINE SKY 9
 http://saga10.pro:80/345715/562156/3014774
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 01" tvg-logo="http://www.imgu.top/logos/nosso-futebol250.png" group-title="NOSSO FUTEBOL",NOSSO FUTEBOL 01
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/227505
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 02" tvg-logo="http://www.imgu.top/logos/nosso-futebol250.png" group-title="NOSSO FUTEBOL",NOSSO FUTEBOL 02
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/227506
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 03" tvg-logo="http://www.imgu.top/logos/nosso-futebol250.png" group-title="NOSSO FUTEBOL",NOSSO FUTEBOL 03
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/227508
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png",CINE SKY 10
+http://saga10.pro:80/345715/562156/3014775
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png",CINE SKY 11
+http://saga10.pro:80/345715/562156/2151034
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png",CINE SKY 12
+http://saga10.pro:80/345715/562156/2151033
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png",CINE SKY 13
+http://saga10.pro:80/345715/562156/2151032
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 1" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="PARAMOUNT +",PARAMOUNT + 1
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/240737
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 2" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="PARAMOUNT +",PARAMOUNT + 2
@@ -273,11 +267,11 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/591951
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/246295
 #EXTINF:-1 tvg-id="" tvg-name="APPLE TV 01 HD" tvg-logo="http://logodownload.org/wp-content/uploads/2023/05/apple-tv-logo.png" group-title="DAZN",APPLE TV 01 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/257414
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="http://t.ctcdn.com.br/AtDPEWXW5U6GXWaaLXJrSPfo4BE=/720x405/smart/filters:format(webp)/i672294.jpeg" group-title="UFC",UFC FIGHT PASS
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="http://t.ctcdn.com.br/AtDPEWXW5U6GXWaaLXJrSPfo4BE=/720x405/smart/filters:format(webp)/i672294.jpeg" group-title="LUTA",UFC FIGHT PASS
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/225501
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS ¹" tvg-logo="http://t.ctcdn.com.br/AtDPEWXW5U6GXWaaLXJrSPfo4BE=/720x405/smart/filters:format(webp)/i672294.jpeg" group-title="UFC",UFC FIGHT PASS ¹
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS ¹" tvg-logo="http://t.ctcdn.com.br/AtDPEWXW5U6GXWaaLXJrSPfo4BE=/720x405/smart/filters:format(webp)/i672294.jpeg" group-title="LUTA",UFC FIGHT PASS ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/245774
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="http://t.ctcdn.com.br/AtDPEWXW5U6GXWaaLXJrSPfo4BE=/720x405/smart/filters:format(webp)/i672294.jpeg" group-title="UFC",UFC FIGHT PASS
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="http://t.ctcdn.com.br/AtDPEWXW5U6GXWaaLXJrSPfo4BE=/720x405/smart/filters:format(webp)/i672294.jpeg" group-title="LUTA",UFC FIGHT PASS
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/245775
 #EXTINF:-1 tvg-id="7" tvg-name="DISCOVERY CHANNEL FHD H.265" tvg-logo="http://1.bp.blogspot.com/-gO9KQOa5_VM/Xk70PmiUxFI/AAAAAAAACD0/bActYU1lpyUhbKJQrR-parzrrGHAVIEkgCLcBGAsYHQ/s1600/discoverychannel.png" group-title="DISCOVERY",DISCOVERY CHANNEL FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91396
@@ -1307,84 +1301,6 @@ http://tooontv.com:999/live/ere3444h/agape/199133.ts
 http://tooontv.com:999/live/ere3444h/agape/199134.ts
 #EXTINF:-1 group-title="CONMEBOL",BR: Conmebol 4 FHD
 http://tooontv.com:999/live/ere3444h/agape/199135.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga 123 FHD" tvg-logo="" group-title="ESPANHA | INGLATERRA | ITÁLIA",ES: LaLiga 123 FHD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/67392
-#EXTINF:-1 tvg-id="" tvg-name="ES: LaLigaTV FHD" tvg-logo="" group-title="ESPANHA | INGLATERRA | ITÁLIA",ES: LaLigaTV FHD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/67390
-#EXTINF:-1 tvg-id="" tvg-name="ES: beIN SPORTS LaLiga" tvg-logo="" group-title="ESPANHA | INGLATERRA | ITÁLIA",ES: beIN SPORTS LaLiga
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/67452
-#EXTINF:-1 tvg-id="" tvg-name="ES: beINSport LaLiga HD" tvg-logo="" group-title="ESPANHA | INGLATERRA | ITÁLIA",ES: beINSport LaLiga HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/67450
-#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="Astro EPL 01" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Astro EPL 01
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110276
-#EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="Astro EPL 02" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Astro EPL 02
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110277
-#EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="Astro EPL 03" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-3-my.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Astro EPL 03
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110278
-#EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="Astro EPL 04" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-4-my.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Astro EPL 04
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110279
-#EXTINF:-1 tvg-id="" tvg-name="Astro EPL 05" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Astro EPL 05
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110280
-logo="http://img-cdn.curl.pk:8880/chimg/5767496731.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: SKY Sport 1 HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122806
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY Sport 24 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/74580789431.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: SKY Sport 24 HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122807
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY Sport 251 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/67601611581.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: SKY Sport 251 HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122808
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY Sport Arena HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/17278030081.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: SKY Sport Arena HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122809
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY Sport F1 HD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/3041578568.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: SKY Sport F1 HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122810
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY Sport Football HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/88794618241.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: SKY Sport Football HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122811
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY Sport MOTO GP HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/55457256061.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: SKY Sport MOTO GP HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122812
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY Sport NBA HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/50069772541.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: SKY Sport NBA HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122813
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY Sport Serie A HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/46937078811.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: SKY Sport Serie A HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122814
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY Sport UNO HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/34847707121.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: SKY Sport UNO HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122815
-#EXTINF:-1 tvg-id="" tvg-name="IT: Sport Italia HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/51510641031.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: Sport Italia HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122816
-#EXTINF:-1 tvg-id="" tvg-name="IT: Canale 21 Campania HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/28030839631.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: Canale 21 Campania HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122817
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/92721444101.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: DAZN 2 HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122818
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 3 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/28902898511.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: DAZN 3 HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122819
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 4 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/19757481681.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: DAZN 4 HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122820
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN Sport 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/64949630661.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: DAZN Sport 1 HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122821
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN Sport 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/92758123701.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: DAZN Sport 2 HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122822
-#EXTINF:-1 tvg-id="" tvg-name="IT: Eurosport 1 HD" tvg-logo="https://i.ibb.co/jvFNhFR/british-eurosport-1.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: Eurosport 1 HD
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122823
-#EXTINF:-1 tvg-id="" tvg-name="IT: EUROSPORT1" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: EUROSPORT1
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122824
-#EXTINF:-1 tvg-id="" tvg-name="IT: EUROSPORT10" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: EUROSPORT10
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122825
-#EXTINF:-1 tvg-id="" tvg-name="IT: EUROSPORT11" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: EUROSPORT11
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122826
-#EXTINF:-1 tvg-id="" tvg-name="IT: EUROSPORT12" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: EUROSPORT12
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122827
-#EXTINF:-1 tvg-id="" tvg-name="IT: EUROSPORT13" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: EUROSPORT13
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122828
-#EXTINF:-1 tvg-id="" tvg-name="IT: EUROSPORT2" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: EUROSPORT2
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122829
-#EXTINF:-1 tvg-id="" tvg-name="IT: EUROSPORT3" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: EUROSPORT3
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122830
-#EXTINF:-1 tvg-id="" tvg-name="IT: EUROSPORT4" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: EUROSPORT4
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122831
-#EXTINF:-1 tvg-id="" tvg-name="IT: EUROSPORT5" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: EUROSPORT5
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122832
-#EXTINF:-1 tvg-id="" tvg-name="IT: EUROSPORT6" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: EUROSPORT6
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122833
-#EXTINF:-1 tvg-id="" tvg-name="IT: EUROSPORT7" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: EUROSPORT7
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122834
-#EXTINF:-1 tvg-id="" tvg-name="IT: EUROSPORT8" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="ESPANHA | INGLATERRA | ITÁLIA",IT: EUROSPORT8
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/122835
 #EXTINF:-1 tvg-id="" tvg-name="*PPV: WWE " tvg-logo="http://mediasolutions.store/fixtures/wweppv.png" group-title="LUTA", WWE 
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/29662
 #EXTINF:-1 tvg-id="WWE Network HD (Canada)" tvg-name="WWE" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="LUTA", WWE
