@@ -1261,15 +1261,15 @@ http://tooontv.com:999/live/ere3444h/agape/199133.ts
 http://tooontv.com:999/live/ere3444h/agape/199134.ts
 #EXTINF:-1 group-title="CONMEBOL",BR: Conmebol 4 FHD
 http://tooontv.com:999/live/ere3444h/agape/199135.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga 123 FHD" tvg-logo="" group-title="ESPANHA | INGLATERRA| ITÁLIA",ES: LaLiga 123 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga 123 FHD" tvg-logo="" group-title="ESPANHA | INGLATERRA | ITÁLIA",ES: LaLiga 123 FHD
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/67392
-#EXTINF:-1 tvg-id="" tvg-name="ES: LaLigaTV FHD" tvg-logo="" group-title="ESPANHA | INGLATERRA| ITÁLIA",ES: LaLigaTV FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLigaTV FHD" tvg-logo="" group-title="ESPANHA | INGLATERRA | ITÁLIA",ES: LaLigaTV FHD
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/67390
-#EXTINF:-1 tvg-id="" tvg-name="ES: beIN SPORTS LaLiga" tvg-logo="" group-title="ESPANHA | INGLATERRA| ITÁLIA",ES: beIN SPORTS LaLiga
+#EXTINF:-1 tvg-id="" tvg-name="ES: beIN SPORTS LaLiga" tvg-logo="" group-title="ESPANHA | INGLATERRA | ITÁLIA",ES: beIN SPORTS LaLiga
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/67452
 #EXTINF:-1 tvg-id="" tvg-name="ES: beINSport LaLiga HD" tvg-logo="" group-title="ESPANHA | INGLATERRA | ITÁLIA",ES: beINSport LaLiga HD
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/67450
-#EXTINF:-1 tvg-id="" tvg-name="Premier League Tv Optus" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/premier-league.png" INTERNACIONAL",Premier League Tv Optus
+#EXTINF:-1 tvg-id="" tvg-name="Premier League Tv Optus" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/premier-league.png" group-title="ESPANHA | INGLATERRA | ITÁLIA", Premier League Tv Optus
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110281
 #EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="Astro EPL 01" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Astro EPL 01
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110276
