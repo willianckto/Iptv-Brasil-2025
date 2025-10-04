@@ -1285,25 +1285,25 @@ http://tooontv.com:999/live/ere3444h/agape/199133.ts
 http://tooontv.com:999/live/ere3444h/agape/199134.ts
 #EXTINF:-1 group-title="CONMEBOL",BR: Conmebol 4 FHD
 http://tooontv.com:999/live/ere3444h/agape/199135.ts
-#EXTINF:-1 tvg-id="" tvg-name="*PPV: WWE " tvg-logo="http://mediasolutions.store/fixtures/wweppv.png" group-title="LUTA", WWE 
+#EXTINF:-1 tvg-id="" tvg-name="WWE " tvg-logo="http://mediasolutions.store/fixtures/wweppv.png" group-title="LUTA", WWE 
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/29662
-#EXTINF:-1 tvg-id="WWE Network HD (Canada)" tvg-name="WWE" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="LUTA", WWE
+#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="LUTA", WWE
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/9506
-#EXTINF:-1 tvg-id="" tvg-name="USA: US Peacock Live | WWE Network Channel" tvg-logo="" group-title="LUTA", USA: US Peacock Live | WWE Network Channel
+#EXTINF:-1 tvg-id="" tvg-name="US Peacock Live | WWE Network Channel" tvg-logo="" group-title="LUTA", USA: US Peacock Live | WWE Network Channel
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118783
-#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78Qm_WxvU5l5L1CQHJ17RmDI1M8Bry08JrYi3IoH-iZqJg.png" group-title="CANAIS ABERTOS",RECORD
+#EXTINF:-1 tvg-id="" tvg-name="RECORD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78Qm_WxvU5l5L1CQHJ17RmDI1M8Bry08JrYi3IoH-iZqJg.png" group-title="CANAIS ABERTOS",RECORD
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120725
-#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD NEWS" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_Zg_XA_pOlqZhg_XEWzwDbXEV7109ARRwmAzz01UO811VA.png" group-title="CANAIS ABERTOS",RECORD NEWS
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_Zg_XA_pOlqZhg_XEWzwDbXEV7109ARRwmAzz01UO811VA.png" group-title="CANAIS ABERTOS",RECORD NEWS
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120726
-#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD RJ" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypmGPEfbuWufXOg6REJouU3XEmNjotH8LOJDvhG9_bIHw.png" group-title="CANAIS ABERTOS",RECORD RJ
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypmGPEfbuWufXOg6REJouU3XEmNjotH8LOJDvhG9_bIHw.png" group-title="CANAIS ABERTOS",RECORD RJ
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120727
-#EXTINF:-1 tvg-id="" tvg-name="BR: Record RS" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78RWj0VcS2ON0DfbVCz7TAX1emEeFkvYsGc5Lq5_zqGc7Q.png" group-title="CANAIS ABERTOS",Record RS
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78RWj0VcS2ON0DfbVCz7TAX1emEeFkvYsGc5Lq5_zqGc7Q.png" group-title="CANAIS ABERTOS",Record RS
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120728
-#EXTINF:-1 tvg-id="" tvg-name="BR: Record SP" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoOw9GJs8x3GpMu7nCFgC2ttsSPI5fZu4rSCFDvn1hd2A.png" group-title="CANAIS ABERTOS",Record SP
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoOw9GJs8x3GpMu7nCFgC2ttsSPI5fZu4rSCFDvn1hd2A.png" group-title="CANAIS ABERTOS",Record SP
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120729
-#EXTINF:-1 tvg-id="" tvg-name="BR: RedBull TV" tvg-logo="" group-title="CANAIS ABERTOS",REDBULL TV
+#EXTINF:-1 tvg-id="" tvg-name="REDBULL TV" tvg-logo="" group-title="CANAIS ABERTOS",REDBULL TV
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120730
-#EXTINF:-1 tvg-id="" tvg-name="BR: REDE TV" tvg-logo="" group-title="CANAIS ABERTOS",REDE TV
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="" group-title="CANAIS ABERTOS",REDE TV
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120733
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/1Tz7RO.png",REDETV! FHD
 http://saga10.pro:80/345715/562156/1263328
