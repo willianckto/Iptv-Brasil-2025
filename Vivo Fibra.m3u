@@ -1315,8 +1315,6 @@ http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/67390
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/67452
 #EXTINF:-1 tvg-id="" tvg-name="ES: beINSport LaLiga HD" tvg-logo="" group-title="ESPANHA | INGLATERRA | ITÁLIA",ES: beINSport LaLiga HD
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/67450
-#EXTINF:-1 tvg-id="" tvg-name="Premier League Tv Optus" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/premier-league.png" group-title="ESPANHA | INGLATERRA | ITÁLIA", Premier League Tv Optus
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110281
 #EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="Astro EPL 01" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Astro EPL 01
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110276
 #EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="Astro EPL 02" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Astro EPL 02
@@ -1327,30 +1325,6 @@ http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110278
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110279
 #EXTINF:-1 tvg-id="" tvg-name="Astro EPL 05" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Astro EPL 05
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110280
-#EXTINF:-1 tvg-id="" tvg-name="***HUB PREMIER Listings***" tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/hub-guide.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",***HUB PREMIER Listings***
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110300
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 01" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub1.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Hub Premier  EPL 01
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110288
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 02" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub2.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Hub Premier  EPL 02
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110289
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 03" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub3.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Hub Premier  EPL 03
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110290
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 04" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub4.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Hub Premier  EPL 04
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110291
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 05" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub5.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Hub Premier  EPL 05
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110292
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 06" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub6.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Hub Premier  EPL 06
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110293
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 07" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub7.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Hub Premier  EPL 07
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110294
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier EPL 08" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub8.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Hub Premier EPL 08
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110295
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 09" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub9.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Hub Premier  EPL 09
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110296
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier EPL 10" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub10.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Hub Premier EPL 10
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110297
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier EPL 11" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub11.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Hub Premier EPL 11
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/110298
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 1 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Now Premier League 1 [Events Only]
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/117457
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 2 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="ESPANHA | INGLATERRA | ITÁLIA",Now Premier League 2 [Events Only]
