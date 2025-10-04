@@ -241,13 +241,12 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594016
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594017
 #EXTINF:-1 tvg-id="" tvg-name="MAX 06 HD" tvg-logo="http://i.postimg.cc/L52gtQpb/BeDFSlD.png" group-title="HBO MAX",MAX 06 HD²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594018
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PAULISTA (JOGO 2)" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/a/ae/Paulist%C3%A3o_Sicred_2025.png" group-title="PPV / ESPORTES",CAMPEONATO PAULISTA (JOGO 2)
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/592536
-#EXTINF:-1 tvg-id="" tvg-name="WWE NETFLIX" tvg-logo="http://upload.wikimedia.org/wikipedia/en/6/6a/RAW_Netflix_debut_poster.jpg" group-title="PPV / ESPORTES",WWE NETFLIX
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETFLIX" tvg-logo="http://upload.wikimedia.org/wikipedia/en/6/6a/RAW_Netflix_debut_poster.jpg" group-title="LUTA",WWE NETFLIX
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/591951
-#EXTINF:-1 tvg-id="" tvg-name="COPA VERDE 02 2023" tvg-logo="http://ccdntp.xyz:80/images/ebe5bf4fb7f8e6eb3f87645534f83ca9.png" group-title="PPV / ESPORTES",COPA VERDE 02 2023
+#EXTINF:-1 tvg-id="" tvg-name="COPA VERDE 02 2023" tvg-logo="http://ccdntp.xyz:80/images/ebe5bf4fb7f8e6eb3f87645534f83ca9.png" group-title="DAZN"",COPA VERDE 02 2023
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/246295
-#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 01 HD" tvg-logo="http://logodownload.org/wp-content/uploads/2023/05/apple-tv-logo.png" group-title="PPV / ESPORTES",APPLE TV 01 HD
+#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 01 HD" tvg-logo="http://logodownload.org/wp-content/uploads/2023/05/apple-tv-logo.png" group-title="DAZN",APPLE TV 01 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/257414
 #EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="http://t.ctcdn.com.br/AtDPEWXW5U6GXWaaLXJrSPfo4BE=/720x405/smart/filters:format(webp)/i672294.jpeg" group-title="UFC",UFC FIGHT PASS
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/225501
@@ -359,23 +358,23 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8934
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30172
 #EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS FHD H.265" tvg-logo="http://1.bp.blogspot.com/-2AIyN1vVYJ4/Xk70P2tZPSI/AAAAAAAACD4/dB9uQ47TzcAMEu4qJU-lYcaBoscJWYKhgCLcBGAsYHQ/s1600/discoverykids.png" group-title="DISCOVERY",DISCOVERY KIDS FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/125440
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN FHD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="PPV / ESPORTES",DAZN FHD
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN FHD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN",DAZN FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/54928
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 2" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="PPV / ESPORTES",DAZN 2
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 2" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN"",DAZN 2
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21645
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 3 HD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="PPV / ESPORTES",DAZN 3 HD
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 3 HD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN"",DAZN 3 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91905
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 4 HD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="PPV / ESPORTES",DAZN 4 HD
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 4 HD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN",DAZN 4 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91906
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 HD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="PPV / ESPORTES",DAZN 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 HD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN",DAZN 6 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/161322
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 7 HD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="PPV / ESPORTES",DAZN 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 7 HD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN",DAZN 7 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/161323
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 HD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="PPV / ESPORTES",DAZN 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 HD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN",DAZN 8 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/161324
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 HD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="PPV / ESPORTES",DAZN 9 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 HD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN",DAZN 9 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/161325
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 HD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="PPV / ESPORTES",DAZN 10 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 HD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN",DAZN 10 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/161326
 #EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN FHD H.265" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="ESPN",ESPN FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598912
