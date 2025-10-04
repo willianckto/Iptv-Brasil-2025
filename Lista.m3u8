@@ -983,10 +983,10 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35258
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35259
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA",NBA TV
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598890
-#EXTINF:-1 tvg-id="" tvg-name="NBA | League Pass 02" tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA",NBA | League Pass 02
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598888
 #EXTINF:-1 tvg-id="" tvg-name="NBA | League Pass 01" tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA",NBA | League Pass 01
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598889
+#EXTINF:-1 tvg-id="" tvg-name="NBA | League Pass 02" tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA",NBA | League Pass 02
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598888
 #EXTINF:-1 tvg-id="" tvg-name="NBA | League Pass 03" tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA",NBA | League Pass 03
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598887
 #EXTINF:-1 tvg-id="" tvg-name="NBA | League Pass 04" tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA",NBA | League Pass 04
@@ -1053,14 +1053,6 @@ http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120604
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120605
 #EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 3" tvg-logo="" group-title="DAZN",BR: DAZN 3
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120606
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX PREMIUM 1" tvg-logo="" group-title="FOX",BR: FOX PREMIUM 1
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120629
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX PREMIUM 2" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3you-ip3nKdfJnq1_Go69lNhl_6ombjzZfRfTUKEf2zUmQ.png" group-title="FOX",BR: FOX PREMIUM 2
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120630
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2" tvg-logo="http://fanc.tmsimg.com/assets/s86787_ll_h3_aa.png" group-title="FOX",BR: FOX SPORTS 2
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120631
-#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Sports" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78QnK_DGcx63tOky8R7rxPskpxMoiJclp8-8GiV5w6w_Kw.png" group-title="FOX",BR: Fox Sports
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120632
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV + HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117724
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1 HD
@@ -1181,41 +1173,41 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118782
 #EXTINF:-1 tvg-id="" tvg-name="USA: US Peacock Live | NFL Network Channel" tvg-logo="" group-title="NFL",USA: US Peacock Live | NFL Network Channel
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118783
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS Porto Alegre" tvg-logo="" group-title="GLOBO",BR: Globo RBS Porto Alegre
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS Porto Alegre" tvg-logo="" group-title="GLOBO",RBS PORTO ALEGRE
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120655
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS TV" tvg-logo="" group-title="GLOBO",BR: Globo RBS TV
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS TV" tvg-logo="" group-title="GLOBO",RBS
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120656
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS TV Pelotas" tvg-logo="" group-title="GLOBO",BR: Globo RBS TV Pelotas
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS TV Pelotas" tvg-logo="" group-title="GLOBO",RBS PELOTAS
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120657
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS TV POA" tvg-logo="" group-title="GLOBO",BR: Globo RBS TV POA
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS TV POA" tvg-logo="" group-title="GLOBO",RBS PORTO ALEGRE
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120658
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS TV Santa Maria" tvg-logo="" group-title="GLOBO",BR: Globo RBS TV Santa Maria
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS TV Santa Maria" tvg-logo="" group-title="GLOBO",RBS SANTA MARIA
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120659
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Recife" tvg-logo="" group-title="GLOBO",BR: Globo Recife
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Recife" tvg-logo="" group-title="GLOBO",GLOBO RECIFE
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120660
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rede Amazonica" tvg-logo="" group-title="GLOBO",BR: Globo Rede Amazonica
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rede Amazonica" tvg-logo="" group-title="GLOBO",GLOBO AMAZONICA
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120661
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RJ" tvg-logo="" group-title="GLOBO",BR: Globo RJ
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RJ" tvg-logo="" group-title="GLOBO",GLOBO RJ
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120662
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RPC Curitiba" tvg-logo="" group-title="GLOBO",BR: Globo RPC Curitiba
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RPC Curitiba" tvg-logo="" group-title="GLOBO",RPC CURITIBA
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120663
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RPC Ponta Grossa" tvg-logo="" group-title="GLOBO",BR: Globo RPC Ponta Grossa
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RPC Ponta Grossa" tvg-logo="" group-title="GLOBO",RPC PONTA GROSSA
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120664
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RPC TV Foz do Iguacu" tvg-logo="" group-title="GLOBO",BR: Globo RPC TV Foz do Iguacu
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RPC TV Foz do Iguacu" tvg-logo="" group-title="GLOBO",RPC FOZ DO IGUAÇU
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120665
-#EXTINF:-1 group-title="GLOBO",BR: Globo Nordeste FHD
+#EXTINF:-1 group-title="GLOBO",GLOBO NORDESTE FHD
 http://tooontv.com:999/live/ere3444h/agape/199156.ts
-#EXTINF:-1 group-title="GLOBO",BR: GLOBO NORDESTE HD
+#EXTINF:-1 group-title="GLOBO",GLOBO NORDESTE HD
 http://tooontv.com:999/live/ere3444h/agape/199101.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: Globo SP" tvg-logo="" group-title="GLOBO",BR: Globo SP
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo SP" tvg-logo="" group-title="GLOBO",GLOBO SP
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120666
-#EXTINF:-1 group-title="GLOBO" tvg-logo="https://w7.pngwing.com/pngs/452/30/png-transparent-rede-globo-globo-tv-international-grupo-globo-television-globosat-jato-television-broadcasting-television-channel-thumbnail.png",GLOBO RBS TV PORTO ALEGRE FHD
+#EXTINF:-1 group-title="GLOBO" tvg-logo="https://w7.pngwing.com/pngs/452/30/png-transparent-rede-globo-globo-tv-international-grupo-globo-television-globosat-jato-television-broadcasting-television-channel-thumbnail.png",RBS PORTO ALEGRE FHD
 http://saga10.pro:80/345715/562156/2639775
-#EXTINF:-1 group-title="GLOBO" tvg-logo="https://w7.pngwing.com/pngs/452/30/png-transparent-rede-globo-globo-tv-international-grupo-globo-television-globosat-jato-television-broadcasting-television-channel-thumbnail.png",GLOBO RBS TV PORTO ALEGRE HD
+#EXTINF:-1 group-title="GLOBO" tvg-logo="https://w7.pngwing.com/pngs/452/30/png-transparent-rede-globo-globo-tv-international-grupo-globo-television-globosat-jato-television-broadcasting-television-channel-thumbnail.png",RBS PORTO ALEGRE HD
 http://saga10.pro:80/345715/562156/2639776
-#EXTINF:-1 group-title="GLOBO" tvg-logo="https://w7.pngwing.com/pngs/452/30/png-transparent-rede-globo-globo-tv-international-grupo-globo-television-globosat-jato-television-broadcasting-television-channel-thumbnail.png",GLOBO RBS TV PORTO ALEGRE SD
+#EXTINF:-1 group-title="GLOBO" tvg-logo="https://w7.pngwing.com/pngs/452/30/png-transparent-rede-globo-globo-tv-international-grupo-globo-television-globosat-jato-television-broadcasting-television-channel-thumbnail.png",RBS PORTO ALEGRE SD
 http://saga10.pro:80/345715/562156/2639777
-#EXTINF:-1 group-title="GLOBO" tvg-logo="https://w7.pngwing.com/pngs/452/30/png-transparent-rede-globo-globo-tv-international-grupo-globo-television-globosat-jato-television-broadcasting-television-channel-thumbnail.png",GLOBO PR RPC CASCAVEL HD
+#EXTINF:-1 group-title="GLOBO" tvg-logo="https://w7.pngwing.com/pngs/452/30/png-transparent-rede-globo-globo-tv-international-grupo-globo-television-globosat-jato-television-broadcasting-television-channel-thumbnail.png",RPC CASCAVEL HD
 http://saga10.pro:80/345715/562156/2639866
 #EXTINF:-1 tvg-id="124" tvg-name="GLOBO SP FHD H.265" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO SP FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81576
@@ -1247,23 +1239,23 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8868
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30105
 #EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ HD ²" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RJ HD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30110
-#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="GLOBO RBS PORTO ALEGRE FHD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RBS PORTO ALEGRE FHD
+#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="GLOBO RBS PORTO ALEGRE FHD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",RBS PORTO ALEGRE FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/228002
-#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RBS PORTO ALEGRE HD
+#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",RBS PORTO ALEGRE HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30099
-#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="GLOBO RBS PORTO ALEGRE" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RBS PORTO ALEGRE
+#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="GLOBO RBS PORTO ALEGRE" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",RBS PORTO ALEGRE
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8862
-#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="GLOBO RBS PORTO ALEGRE ¹" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RBS PORTO ALEGRE ¹
+#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="GLOBO RBS PORTO ALEGRE ¹" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",RBS PORTO ALEGRE ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21669
-#EXTINF:-1 tvg-id="rbs.caxias.do.sul.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RBS TV CAXIAS DO SUL HD
+#EXTINF:-1 tvg-id="rbs.caxias.do.sul.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",RBS TV CAXIAS DO SUL HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91912
-#EXTINF:-1 tvg-id="rbs.santa.maria.br" tvg-name="GLOBO RBS TV SANTA MARIA HD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RBS TV SANTA MARIA HD
+#EXTINF:-1 tvg-id="rbs.santa.maria.br" tvg-name="GLOBO RBS TV SANTA MARIA HD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",RBS TV SANTA MARIA HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91914
-#EXTINF:-1 tvg-id="rpc.paranavai.br" tvg-name="GLOBO RPC PARANA HD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RPC PARANA HD
+#EXTINF:-1 tvg-id="rpc.paranavai.br" tvg-name="GLOBO RPC PARANA HD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",RPC PARANA HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69047
-#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="GLOBO RPC TV CORITIBA HD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RPC TV CORITIBA HD
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="GLOBO RPC TV CORITIBA HD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",RPC CORITIBA HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69050
-#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RPC CURITIBA HD
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",RPC CURITIBA HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/245373
 #EXTINF:-1 group-title="HBO MAX" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png",HBO MAX 01
 http://saga10.pro:80/345715/562156/2649042
@@ -1299,19 +1291,19 @@ http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/29662
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/9506
 #EXTINF:-1 tvg-id="" tvg-name="USA: US Peacock Live | WWE Network Channel" tvg-logo="" group-title="LUTA", USA: US Peacock Live | WWE Network Channel
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118783
-#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78Qm_WxvU5l5L1CQHJ17RmDI1M8Bry08JrYi3IoH-iZqJg.png" group-title="CANAIS ABERTOS",BR: RECORD
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78Qm_WxvU5l5L1CQHJ17RmDI1M8Bry08JrYi3IoH-iZqJg.png" group-title="CANAIS ABERTOS",RECORD
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120725
-#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD NEWS" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_Zg_XA_pOlqZhg_XEWzwDbXEV7109ARRwmAzz01UO811VA.png" group-title="CANAIS ABERTOS",BR: RECORD NEWS
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD NEWS" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_Zg_XA_pOlqZhg_XEWzwDbXEV7109ARRwmAzz01UO811VA.png" group-title="CANAIS ABERTOS",RECORD NEWS
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120726
-#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD RJ" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypmGPEfbuWufXOg6REJouU3XEmNjotH8LOJDvhG9_bIHw.png" group-title="CANAIS ABERTOS",BR: RECORD RJ
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD RJ" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypmGPEfbuWufXOg6REJouU3XEmNjotH8LOJDvhG9_bIHw.png" group-title="CANAIS ABERTOS",RECORD RJ
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120727
-#EXTINF:-1 tvg-id="" tvg-name="BR: Record RS" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78RWj0VcS2ON0DfbVCz7TAX1emEeFkvYsGc5Lq5_zqGc7Q.png" group-title="CANAIS ABERTOS",BR: Record RS
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record RS" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78RWj0VcS2ON0DfbVCz7TAX1emEeFkvYsGc5Lq5_zqGc7Q.png" group-title="CANAIS ABERTOS",Record RS
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120728
-#EXTINF:-1 tvg-id="" tvg-name="BR: Record SP" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoOw9GJs8x3GpMu7nCFgC2ttsSPI5fZu4rSCFDvn1hd2A.png" group-title="CANAIS ABERTOS",BR: Record SP
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record SP" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoOw9GJs8x3GpMu7nCFgC2ttsSPI5fZu4rSCFDvn1hd2A.png" group-title="CANAIS ABERTOS",Record SP
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120729
-#EXTINF:-1 tvg-id="" tvg-name="BR: RedBull TV" tvg-logo="" group-title="CANAIS ABERTOS",BR: RedBull TV
+#EXTINF:-1 tvg-id="" tvg-name="BR: RedBull TV" tvg-logo="" group-title="CANAIS ABERTOS",REDBULL TV
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120730
-#EXTINF:-1 tvg-id="" tvg-name="BR: REDE TV" tvg-logo="" group-title="CANAIS ABERTOS",BR: REDE TV
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE TV" tvg-logo="" group-title="CANAIS ABERTOS",REDE TV
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120733
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/1Tz7RO.png",REDETV! FHD
 http://saga10.pro:80/345715/562156/1263328
@@ -1325,4 +1317,3 @@ http://saga10.pro:80/345715/562156/1263343
 http://saga10.pro:80/345715/562156/1263342
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/TPnvmR.png",TV CULTURA SD
 http://saga10.pro:80/345715/562156/1263341
-type=m3u_plus&output=ts 
