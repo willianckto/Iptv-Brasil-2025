@@ -1111,6 +1111,10 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598883
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598882
 #EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA / NFL",NBA 09
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598881
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",NFL Network (TVPASS)
+https://tvpass.org/live/NFLNetwork/sd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",NFL RedZone (TVPASS)
+https://tvpass.org/live/NFLRedZone/sd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",NFL DRAFTKINGS 24/7
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118762
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",NFL Red Zone FHD
@@ -1151,19 +1155,15 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118780
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",NFL 16
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118781
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",US Sky Sports NFL HQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",US Sky Sport
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118782
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",US Peacock
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118783
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",NFL Network 2
-https://tvpass.org/live/NFLNetwork/sd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",NFL RedZone 2
-https://tvpass.org/live/NFLRedZone/sd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",NFL Channel 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",NFL Channel 2
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",NFL Network 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",NFL Network 2
 https://fl25.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",NFL RedZone 3 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",NFL RedZone 2
 https://fl25.moveonjoy.com/NFL_RedZone/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="GLOBO",RBS PORTO ALEGRE
