@@ -81,17 +81,17 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91918
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/20522
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg" group-title="CANAIS ABERTOS",BAND RS HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/72575
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="CANAIS ABERTOS",BAND SPORTS FHD H.265
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="ESPORTES",BAND SPORTS FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81585
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="CANAIS ABERTOS",BAND SPORTS FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="ESPORTES",BAND SPORTS FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8661
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="CANAIS ABERTOS",BAND SPORTS FHD*
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="ESPORTES,BAND SPORTS FHD*
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/131128
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="CANAIS ABERTOS",BAND SPORTS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="ESPORTES",BAND SPORTS HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8662
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="CANAIS ABERTOS",BAND SPORTS HD ¹
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="ESPORTES",BAND SPORTS HD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30064
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="CANAIS ABERTOS",BAND SPORTS HD ³
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="ESPORTES",BAND SPORTS HD ³
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/26724
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="NOTÍCIAS",GLOBO NEWS
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120647
@@ -159,17 +159,17 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8712
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30166
 #EXTINF:-1 tvg-logo="http://acstatic.co/logos/canais/cnn.png" group-title="NOTÍCIAS",CNN BRASIL HD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30167
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="LUTA",COMBATE  FHD H.265
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="ESPORTES",COMBATE  FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/81586
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="LUTA",COMBATE
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="ESPORTES",COMBATE
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13506
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="LUTA",COMBATE FHD
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="ESPORTES",COMBATE FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8714
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="LUTA",COMBATE HD
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="ESPORTES",COMBATE HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8716
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="LUTA",COMBATE HD ¹
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="ESPORTES",COMBATE HD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30066
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="LUTA",COMBATE HD ²
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="ESPORTES",COMBATE HD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30067
 #EXTINF:-1 tvg-logo="http://topxz.live/logos/VARIEDADES/CURTA.png" group-title="VARIEDADES",CURTA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/12948
@@ -201,33 +201,33 @@ http://saga10.pro:80/345715/562156/2151034
 http://saga10.pro:80/345715/562156/2151033
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" group-title="FILMES E SÉRIES",CINE SKY 13
 http://saga10.pro:80/345715/562156/2151032
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="PARAMOUNT +",PARAMOUNT + 1
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="ESPORTES",PARAMOUNT + 1
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/240737
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="PARAMOUNT +",PARAMOUNT + 2
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="ESPORTES",PARAMOUNT + 2
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/240739
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="PARAMOUNT +",PARAMOUNT + 3
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="ESPORTES",PARAMOUNT + 3
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295698
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="PARAMOUNT +",PARAMOUNT + 4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="ESPORTES",PARAMOUNT + 4
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295699
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="PARAMOUNT +",PARAMOUNT + 5
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="ESPORTES",PARAMOUNT + 5
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295700
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="PARAMOUNT +",PARAMOUNT + 6
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="ESPORTES",PARAMOUNT + 6
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295701
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="PARAMOUNT +",PARAMOUNT + 7
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="ESPORTES",PARAMOUNT + 7
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295702
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="PARAMOUNT +",PARAMOUNT + 8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="ESPORTES",PARAMOUNT + 8
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295703
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="PARAMOUNT +",PARAMOUNT + 9
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="ESPORTES",PARAMOUNT + 9
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295704
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg" group-title="PRIME VIDEO",PRIME VIDEO 01
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg" group-title="ESPORTES",PRIME VIDEO 01
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/292698
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg" group-title="PRIME VIDEO",PRIME VIDEO 02
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg" group-title="ESPORTES",PRIME VIDEO 02
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/121180
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg" group-title="PRIME VIDEO",PRIME VIDEO 03
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg" group-title="ESPORTES",PRIME VIDEO 03
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/121216
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg" group-title="PRIME VIDEO",PRIME VIDEO 04
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg" group-title="ESPORTES",PRIME VIDEO 04
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/121217
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg" group-title="PRIME VIDEO",PRIME VIDEO 05
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg" group-title="ESPORTES",PRIME VIDEO 05
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/246819
 #EXTINF:-1 tvg-logo="http://i.postimg.cc/L52gtQpb/BeDFSlD.png" group-title="HBO MAX",MAX 1 FHD²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594007
@@ -363,23 +363,23 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8933
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8934
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY HD ³
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30172
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN",DAZN FHD
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="ESPORTES",DAZN FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/54928
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN"",DAZN 2
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="ESPORTES",DAZN 2
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21645
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN"",DAZN 3 HD
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="ESPORTES",DAZN 3 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91905
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN",DAZN 4 HD
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="ESPORTES",DAZN 4 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91906
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN",DAZN 6 HD
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="ESPORTES",DAZN 6 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/161322
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN",DAZN 7 HD
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="ESPORTES",DAZN 7 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/161323
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN",DAZN 8 HD
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="ESPORTES",DAZN 8 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/161324
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN",DAZN 9 HD
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="ESPORTES",DAZN 9 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/161325
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN",DAZN 10 HD
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="ESPORTES",DAZN 10 HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/161326
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="ESPN",ESPN FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598912
@@ -805,7 +805,7 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30124
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30125
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg/revision/latest?cb=20211208021328" group-title="SPORTV",SPORTV 4 FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/570369
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png"" group-title="FILMES E SÉRIES",TNT NOVELAS FHD .265
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png"" group-title="FILMES E SÉRIES",TNT NOVELAS FHD .265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/275102
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="FILMES E SÉRIES",TNT NOVELAS 
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/275101
@@ -825,20 +825,24 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9145
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35254
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png" group-title="FILMES E SÉRIES",TNT SÉRIES HD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35255
-#EXTINF:-1 tvg-logo="http://topxz.live/logos/Filmes_Series/TNT.png" group-title="FILMES E SÉRIES",TNT FHD H.265
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png" group-title="FILMES E SÉRIES",TNT FHD H.265
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594019
-#EXTINF:-1 tvg-logo="http://topxz.live/logos/Filmes_Series/TNT.png" group-title="FILMES E SÉRIES",TNT FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png" group-title="FILMES E SÉRIES",TNT FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594020
-#EXTINF:-1 tvg-logo="http://topxz.live/logos/Filmes_Series/TNT.png" group-title="FILMES E SÉRIES",TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png" group-title="FILMES E SÉRIES",TNT
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594021
-#EXTINF:-1 tvg-logo="http://topxz.live/logos/Filmes_Series/TNT.png" group-title="FILMES E SÉRIES",TNT FHD*
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png" group-title="FILMES E SÉRIES",TNT FHD*
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594022
-#EXTINF:-1 tvg-logo="http://topxz.live/logos/Filmes_Series/TNT.png" group-title="FILMES E SÉRIES",TNT HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png" group-title="FILMES E SÉRIES",TNT HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594023
-#EXTINF:-1 tvg-logo="http://topxz.live/logos/Filmes_Series/TNT.png" group-title="FILMES E SÉRIES",TNT HD ¹
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png" group-title="FILMES E SÉRIES",TNT HD ¹
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594024
-#EXTINF:-1 tvg-logo="http://topxz.live/logos/Filmes_Series/TNT.png" group-title="FILMES E SÉRIES",TNT HD ²
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png" group-title="FILMES E SÉRIES",TNT HD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594025
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png" group-title="TNT",TNT
+http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120758
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png" group-title="FILMES E SÉRIES",TNT SÉRIES
+http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120759
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-pkhwk3sCDcA/XmRPXw6eTII/AAAAAAAACUY/m7bS_xJ-4w0Glc2R7wVro-mxpLtsXhz8QCK4BGAYYCw/s400/TLC.png" group-title="FILMES E SÉRIES",TCM HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9124
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Rede_Telecine_vertical_logo.svg" group-title="TELECINE",TELECINE ACTION FHD H.265
@@ -975,77 +979,73 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9220
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35258
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-op011tmRIXQ/Xk70oGwc0-I/AAAAAAAACH8/Pf3FY0ON8Ic7PXZDKBtbiGbLJU4imuV4wCLcBGAsYHQ/s1600/warnerchannel.png" group-title="FILMES E SÉRIES",WARNER HD ²
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35259
-#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA",NBA TV
+#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA E NFL",NBA TV
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598890
-#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA",NBA | League Pass 01
+#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA E NFL",NBA  01
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598889
-#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA",NBA | League Pass 02
+#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA E NFL",NBA 02
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598888
-#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA",NBA | League Pass 03
+#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA E NFL",NBA 03
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598887
-#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA",NBA | League Pass 04
+#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA E NFL",NBA 04
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598886
-#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA",NBA | League Pass 05
+#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA E NFL",NBA 05
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598885
-#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA",NBA | League Pass 06
+#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA E NFL",NBA 06
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598884
-#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA",NBA | League Pass 07
+#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA E NFL",NBA 07
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598883
-#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA",NBA | League Pass 08
+#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA E NFL",NBA 08
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598882
-#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA",NBA | League Pass 09
+#EXTINF:-1 tvg-logo="http://i.postimg.cc/hjf15W4k/nbatv.png" group-title="NBA E NFL",NBA 09
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598881
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="DISNEY +",DISNEY + 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="ESPORTES",DISNEY + 1
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599267
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="DISNEY +",DISNEY + 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="ESPORTES",DISNEY + 2
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599268
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="DISNEY +",DISNEY + 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="ESPORTES",DISNEY + 3
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599269
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="DISNEY +",DISNEY + 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="ESPORTES",DISNEY + 4
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599270
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="DISNEY +",DISNEY + 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="ESPORTES",DISNEY + 5
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599271
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="DISNEY +",DISNEY + 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="ESPORTES",DISNEY + 6
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599272
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="DISNEY +",DISNEY + 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="ESPORTES",DISNEY + 7
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599273
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="DISNEY +",DISNEY + 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="ESPORTES",DISNEY + 8
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599274
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="DISNEY +",DISNEY + 9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="ESPORTES",DISNEY + 9
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599275
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="DISNEY +",DISNEY + 10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="ESPORTES",DISNEY + 10
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599276
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="DISNEY +",DISNEY + 11
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="ESPORTES",DISNEY + 11
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599277
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="DISNEY +",DISNEY + 12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/2017_Disney_Channel_logo.svg" group-title="ESPORTES",DISNEY + 12
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/599278
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg" group-title="TNT",TNT SPORTS 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg" group-title="ESPORTES",TNT SPORTS 1 HD
 http://tooontv.com:999/live/ere3444h/agape/199171.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg" group-title="TNT",TNT SPORTS 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg" group-title="ESPORTES",TNT SPORTS 2 HD
 http://tooontv.com:999/live/ere3444h/agape/199172.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg" group-title="TNT",TNT SPORTS 3 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg" group-title="ESPORTES",TNT SPORTS 3 HD
 http://tooontv.com:999/live/ere3444h/agape/199173.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg" group-title="TNT",TNT SPORTS 4 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg" group-title="ESPORTES",TNT SPORTS 4 HD
 http://tooontv.com:999/live/ere3444h/agape/199174.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg" group-title="TNT",TNT SPORTS 5 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg" group-title="ESPORTES",TNT SPORTS 5 HD
 http://tooontv.com:999/live/ere3444h/agape/199175.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg" group-title="TNT",TNT SPORTS 6 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg" group-title="ESPORTES",TNT SPORTS 6 HD
 http://tooontv.com:999/live/ere3444h/agape/199176.ts
-#EXTINF:-1 tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypRXDGw-RlHCJZLGiOlu7hD6zEam3ylgniQX623EUIONA.png" group-title="TNT",TNT
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120758
-#EXTINF:-1 tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypRXDGw-RlHCJZLGiOlu7hD6zEam3ylgniQX623EUIONA.png" group-title="VARIEDADES",TNT SERIES
-http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120759
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg" group-title="TNT",TNT Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg" group-title="ESPORTES",TNT SPORTS
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120760
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg" group-title="TNT",TNT SPORTS 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg" group-title="ESPORTES",TNT SPORTS 2
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120761
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg" group-title="TNT",TNT SPORTS 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg" group-title="ESPORTES",TNT SPORTS 3
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120762
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN",DAZN
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="ESPORTES",DAZN
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120604
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN",DAZN 2
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="ESPORTES",DAZN 2
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120605
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="DAZN",DAZN 3
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="ESPORTES",DAZN 3
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120606
 #EXTINF:-1 tvg-logo="" group-title="PORTUGAL",SPORT TV + HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117724
@@ -1123,49 +1123,49 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117761
 #EXTINF:-1 tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT 2 FHD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117762
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",USA: NFL DRAFTKINGS 24/7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",USA: NFL DRAFTKINGS 24/7
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118762
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",USA: NFL Red Zone FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",USA: NFL Red Zone FHD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118763
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",USA: NFL Red Zone HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",USA: NFL Red Zone HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118764
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",NFL 00
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",NFL 00
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118765
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",NFL 01
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",NFL 01
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118766
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",NFL 02
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",NFL 02
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118767
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",NFL 03
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",NFL 03
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118768
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",NFL 04
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",NFL 04
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118769
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",NFL 05
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",NFL 05
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118770
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",NFL 06
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",NFL 06
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118771
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",NFL 07
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",NFL 07
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118772
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",NFL 08
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",NFL 08
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118773
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",NFL 09
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",NFL 09
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118774
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",NFL 10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",NFL 10
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118775
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",NFL 11
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",NFL 11
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118776
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",NFL 12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",NFL 12
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118777
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",NFL 13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",NFL 13
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118778
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",NFL 14
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",NFL 14
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118779
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",NFL 15
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",NFL 15
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118780
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",NFL 16
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",NFL 16
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118781
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",US Sky Sports NFL HQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",US Sky Sports NFL HQ
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118782
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NFL",US Peacock
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA E NFL",US Peacock
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118783
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS ABERTOS",RBS PORTO ALEGRE
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120655
@@ -1251,19 +1251,19 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69047
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69050
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS ABERTOS",RPC CURITIBA HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/245373
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/CONMEBOL_logo_%282017%29.png" group-title="PARAMOUNT+",CONMEBOL 1 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/CONMEBOL_logo_%282017%29.png" group-title="ESPORTES",CONMEBOL 1 FHD
 http://tooontv.com:999/live/ere3444h/agape/199132.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/CONMEBOL_logo_%282017%29.png" group-title="PARAMOUNT+",CONMEBOL 2 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/CONMEBOL_logo_%282017%29.png" group-title="ESPORTES",CONMEBOL 2 FHD
 http://tooontv.com:999/live/ere3444h/agape/199133.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/CONMEBOL_logo_%282017%29.png" group-title="PARAMOUNT+",CONMEBOL 3 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/CONMEBOL_logo_%282017%29.png" group-title="ESPORTES",CONMEBOL 3 FHD
 http://tooontv.com:999/live/ere3444h/agape/199134.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/CONMEBOL_logo_%282017%29.png" group-title="PARAMOUNT+",CONMEBOL 4 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/CONMEBOL_logo_%282017%29.png" group-title="ESPORTES",CONMEBOL 4 FHD
 http://tooontv.com:999/live/ere3444h/agape/199135.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WWE_Logo.svg" group-title="LUTA", WWE 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WWE_Logo.svg" group-title="ESPORTES", WWE 
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/29662
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WWE_Logo.svg" group-title="LUTA", WWE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WWE_Logo.svg" group-title="ESPORTES", WWE
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/9506
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WWE_Logo.svg" group-title="LUTA",US Peacock WWE Network Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WWE_Logo.svg" group-title="ESPORTES",US Peacock WWE Network Channel
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118783
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS ABERTOS",RECORD
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120725
@@ -1271,9 +1271,9 @@ http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120725
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120726
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS ABERTOS",RECORD RJ
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120727
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS ABERTOS",Record RS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS ABERTOS",RECORD RS
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120728
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS ABERTOS",Record SP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS ABERTOS",RECORD SP
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120729
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",REDBULL TV
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120730
