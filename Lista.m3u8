@@ -1155,13 +1155,11 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118782
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",US Peacock
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/118783
-#EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="NFL Network" tvg-logo="" group-title="NBA / NFL", NFL Network
-https://xyzdddd.mizhls.ru/lb/premium405/index.m3u8
-#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" group-title="NBA / NFL",NFL Network 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",NFL Network 2
 https://tvpass.org/live/NFLNetwork/sd
-#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone" group-title="NBA / NFL",NFL RedZone 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",NFL RedZone 2
 https://tvpass.org/live/NFLRedZone/sd
-#EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA" group-title="NBA / NFL",NHL Network USA 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/12/National_Football_League_2008.svg" group-title="NBA / NFL",NHL Network USA 2
 https://tvpass.org/live/NHLNetwork/sd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="GLOBO",RBS PORTO ALEGRE
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120655
